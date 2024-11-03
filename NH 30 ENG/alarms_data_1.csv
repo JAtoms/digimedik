@@ -1,0 +1,423 @@
+﻿Name:,Date Range:2024-07-03 - 2024-08-01
+Timestamp,Alarm/Event,Serial Number
+2024-08-01 06:56,tandem_controliq_low,663841
+2024-08-01 04:51,tandem_controliq_low,663841
+2024-08-01 02:21,tandem_controliq_low,663841
+2024-07-31 21:12,Cartridge Loaded,663841
+2024-07-31 19:38,tandem_controliq_low,663841
+2024-07-31 18:33,tandem_controliq_low,663841
+2024-07-31 16:50,tandem_cgm_out_of_range,663841
+2024-07-31 15:25,tandem_cgm_out_of_range,663841
+2024-07-31 13:01,Low Power Alert (2T),663841
+2024-07-31 12:55,tandem_cgm_out_of_range,663841
+2024-07-31 11:58,tandem_controliq_high,663841
+2024-07-31 11:50,tandem_cgm_out_of_range,663841
+2024-07-31 10:19,tandem_cgm_low_2,663841
+2024-07-31 10:09,tandem_cgm_low,663841
+2024-07-31 09:59,tandem_cgm_low_2,663841
+2024-07-31 09:53,tandem_controliq_low,663841
+2024-07-31 08:04,tandem_cgm_low_2,663841
+2024-07-31 07:49,tandem_cgm_low,663841
+2024-07-31 07:43,tandem_controliq_low,663841
+2024-07-31 07:39,tandem_cgm_low_2,663841
+2024-07-31 07:23,tandem_controliq_low,663841
+2024-07-31 07:19,tandem_cgm_low_2,663841
+2024-07-31 06:20,tandem_cgm_out_of_range,663841
+2024-07-31 04:35,tandem_cgm_out_of_range,663841
+2024-07-31 04:18,tandem_controliq_low,663841
+2024-07-31 04:04,tandem_cgm_low_2,663841
+2024-07-31 02:49,tandem_cgm_low,663841
+2024-07-31 02:48,tandem_controliq_low,663841
+2024-07-31 02:44,tandem_cgm_low_2,663841
+2024-07-31 02:35,tandem_cgm_out_of_range,663841
+2024-07-31 00:28,tandem_controliq_high,663841
+2024-07-30 23:20,tandem_cgm_out_of_range,663841
+2024-07-30 22:59,tandem_cgm_low_2,663841
+2024-07-30 22:48,tandem_controliq_low,663841
+2024-07-30 20:35,tandem_cgm_out_of_range,663841
+2024-07-30 19:55,tandem_cgm_out_of_range,663841
+2024-07-30 18:25,tandem_cgm_out_of_range,663841
+2024-07-30 14:20,tandem_cgm_out_of_range,663841
+2024-07-30 13:35,tandem_cgm_out_of_range,663841
+2024-07-30 13:05,tandem_cgm_out_of_range,663841
+2024-07-30 12:49,tandem_controliq_low,663841
+2024-07-30 12:44,tandem_cgm_low_2,663841
+2024-07-30 12:37,tandem_controliq_low,663841
+2024-07-30 12:34,tandem_cgm_low,663841
+2024-07-30 12:30,tandem_cgm_out_of_range,663841
+2024-07-30 12:12,tandem_controliq_low,663841
+2024-07-30 10:23,Resume Pump Alarm (18A),663841
+2024-07-30 10:04,Resume Pump Alarm (18A),663841
+2024-07-30 09:47,tandem_controliq_low,663841
+2024-07-30 08:29,tandem_cgm_low_2,663841
+2024-07-30 06:50,tandem_cgm_out_of_range,663841
+2024-07-30 05:45,tandem_cgm_out_of_range,663841
+2024-07-30 04:00,tandem_cgm_out_of_range,663841
+2024-07-30 03:42,tandem_controliq_high,663841
+2024-07-30 03:30,tandem_cgm_out_of_range,663841
+2024-07-30 02:45,tandem_cgm_out_of_range,663841
+2024-07-30 01:55,tandem_cgm_out_of_range,663841
+2024-07-30 01:48,Resume Pump Alarm (18A),663841
+2024-07-30 01:34,tandem_cgm_low_2,663841
+2024-07-30 01:26,tandem_controliq_low,663841
+2024-07-30 01:20,tandem_cgm_out_of_range,663841
+2024-07-29 23:17,Resume Pump Alarm (18A),663841
+2024-07-29 20:23,tandem_controliq_low,663841
+2024-07-29 18:38,tandem_controliq_high,663841
+2024-07-29 18:16,Resume Pump Alarm (18A),663841
+2024-07-29 17:57,Resume Pump Alarm (18A),663841
+2024-07-29 17:10,tandem_cgm_out_of_range,663841
+2024-07-29 17:00,Resume Pump Alarm (18A),663841
+2024-07-29 16:49,tandem_cgm_low_2,663841
+2024-07-29 16:33,tandem_controliq_low,663841
+2024-07-29 15:49,tandem_cgm_high,663841
+2024-07-29 13:20,tandem_cgm_out_of_range,663841
+2024-07-29 13:11,tandem_controliq_low,663841
+2024-07-29 11:13,tandem_controliq_low,663841
+2024-07-29 11:10,tandem_cgm_out_of_range,663841
+2024-07-29 10:49,Resume Pump Alarm (18A),663841
+2024-07-29 10:29,tandem_cgm_low_2,663841
+2024-07-29 10:19,tandem_controliq_low,663841
+2024-07-29 05:54,tandem_controliq_low,663841
+2024-07-29 05:49,tandem_cgm_low_2,663841
+2024-07-29 02:49,tandem_controliq_low,663841
+2024-07-29 00:09,tandem_controliq_low,663841
+2024-07-28 20:39,tandem_cgm_low_2,663841
+2024-07-28 20:14,tandem_cgm_low,663841
+2024-07-28 20:04,tandem_cgm_low_2,663841
+2024-07-28 19:58,tandem_controliq_low,663841
+2024-07-28 19:33,tandem_controliq_low,663841
+2024-07-28 18:25,Cartridge Loaded,663841
+2024-07-28 18:09,Resume Pump Alarm (18A),663841
+2024-07-28 17:16,Resume Pump Alarm (18A),663841
+2024-07-28 17:14,tandem_cgm_low_2,663841
+2024-07-28 16:40,Resume Pump Alarm (18A),663841
+2024-07-28 16:24,Resume Pump Alarm (18A),663841
+2024-07-28 16:14,tandem_cgm_low,663841
+2024-07-28 16:09,tandem_controliq_low,663841
+2024-07-28 16:09,tandem_cgm_low_2,663841
+2024-07-27 08:39,tandem_cgm_failed_sensor,663841
+2024-07-27 03:31,tandem_cgm_sensor_expiring,663841
+2024-07-27 00:13,Resume Pump Alarm (18A),663841
+2024-07-26 23:58,Resume Pump Alarm (18A),663841
+2024-07-26 23:33,tandem_controliq_low,663841
+2024-07-26 21:54,Resume Pump Alarm (18A),663841
+2024-07-26 21:39,tandem_cgm_low_2,663841
+2024-07-26 21:28,tandem_controliq_low,663841
+2024-07-26 20:57,Low Power Alert (2T),663841
+2024-07-26 19:04,tandem_cgm_low_2,663841
+2024-07-26 18:58,tandem_controliq_low,663841
+2024-07-26 17:08,tandem_controliq_low,663841
+2024-07-26 16:59,tandem_cgm_low_2,663841
+2024-07-26 16:29,tandem_cgm_low_2,663841
+2024-07-26 16:28,tandem_controliq_low,663841
+2024-07-26 13:19,tandem_cgm_low_2,663841
+2024-07-26 13:08,tandem_controliq_low,663841
+2024-07-26 12:14,tandem_cgm_low_2,663841
+2024-07-26 11:56,tandem_controliq_low,663841
+2024-07-26 10:37,Low Power Alert (2T),663841
+2024-07-26 09:36,tandem_controliq_low,663841
+2024-07-26 07:34,tandem_cgm_out_of_range,663841
+2024-07-26 06:47,tandem_controliq_high,663841
+2024-07-26 06:47,Cartridge Loaded,663841
+2024-07-26 06:43,Cartridge Alarm (25A),663841
+2024-07-26 06:28,tandem_controliq_high,663841
+2024-07-26 02:39,tandem_cgm_low_2,663841
+2024-07-26 02:38,tandem_controliq_low,663841
+2024-07-25 23:16,tandem_controliq_low,663841
+2024-07-25 20:44,tandem_cgm_out_of_range,663841
+2024-07-25 17:59,tandem_cgm_out_of_range,663841
+2024-07-25 16:37,Resume Pump Alarm (18A),663841
+2024-07-25 16:17,tandem_controliq_low,663841
+2024-07-25 14:54,tandem_cgm_out_of_range,663841
+2024-07-25 13:42,tandem_controliq_high,663841
+2024-07-25 11:54,tandem_cgm_high,663841
+2024-07-25 10:29,tandem_cgm_out_of_range,663841
+2024-07-25 10:03,tandem_controliq_low,663841
+2024-07-25 05:24,tandem_cgm_out_of_range,663841
+2024-07-25 04:59,tandem_cgm_out_of_range,663841
+2024-07-25 03:44,tandem_cgm_out_of_range,663841
+2024-07-25 02:03,tandem_controliq_high,663841
+2024-07-25 01:43,tandem_controliq_high,663841
+2024-07-25 01:04,tandem_cgm_out_of_range,663841
+2024-07-24 21:58,tandem_controliq_low,663841
+2024-07-24 17:49,tandem_cgm_out_of_range,663841
+2024-07-24 17:19,tandem_cgm_out_of_range,663841
+2024-07-24 15:22,tandem_controliq_high,663841
+2024-07-24 13:12,tandem_controliq_low,663841
+2024-07-24 12:39,tandem_cgm_out_of_range,663841
+2024-07-24 11:14,tandem_cgm_out_of_range,663841
+2024-07-24 10:54,tandem_cgm_high,663841
+2024-07-24 09:34,tandem_cgm_out_of_range,663841
+2024-07-24 01:24,tandem_cgm_out_of_range,663841
+2024-07-23 22:34,tandem_controliq_low,663841
+2024-07-23 20:14,tandem_controliq_high,663841
+2024-07-23 19:32,tandem_controliq_high,663841
+2024-07-23 19:09,tandem_cgm_out_of_range,663841
+2024-07-23 18:04,tandem_cgm_out_of_range,663841
+2024-07-23 16:57,tandem_controliq_high,663841
+2024-07-23 16:44,tandem_cgm_high,663841
+2024-07-23 15:54,tandem_cgm_high,663841
+2024-07-23 14:22,tandem_controliq_high,663841
+2024-07-23 13:52,tandem_controliq_high,663841
+2024-07-23 13:12,tandem_controliq_high,663841
+2024-07-23 11:54,tandem_cgm_high,663841
+2024-07-23 11:47,tandem_controliq_high,663841
+2024-07-23 09:39,tandem_cgm_high,663841
+2024-07-23 09:27,tandem_controliq_high,663841
+2024-07-23 08:37,tandem_controliq_high,663841
+2024-07-23 06:17,tandem_controliq_low,663841
+2024-07-23 03:49,tandem_cgm_out_of_range,663841
+2024-07-23 01:11,tandem_controliq_high,663841
+2024-07-22 22:56,tandem_controliq_high,663841
+2024-07-22 22:39,tandem_cgm_high,663841
+2024-07-22 19:24,tandem_controliq_high,663841
+2024-07-22 16:19,tandem_cgm_high,663841
+2024-07-22 16:14,tandem_controliq_high,663841
+2024-07-22 15:44,tandem_controliq_high,663841
+2024-07-22 14:09,Cartridge Loaded,663841
+2024-07-22 12:06,Low Power Alert (2T),663841
+2024-07-22 11:10,tandem_controliq_high,663841
+2024-07-22 10:54,tandem_cgm_high,663841
+2024-07-22 10:05,tandem_controliq_high,663841
+2024-07-22 05:59,tandem_cgm_low_2,663841
+2024-07-22 05:55,tandem_controliq_low,663841
+2024-07-22 04:25,tandem_controliq_low,663841
+2024-07-21 23:49,tandem_cgm_out_of_range,663841
+2024-07-21 20:00,tandem_controliq_high,663841
+2024-07-21 18:34,tandem_cgm_high,663841
+2024-07-21 18:14,tandem_controliq_high,663841
+2024-07-21 17:04,tandem_cgm_high,663841
+2024-07-21 16:54,tandem_controliq_high,663841
+2024-07-21 14:49,tandem_controliq_high,663841
+2024-07-21 14:09,tandem_controliq_high,663841
+2024-07-21 11:46,Auto-Off Alarm (7A),663841
+2024-07-21 11:22,tandem_controliq_high,663841
+2024-07-21 10:32,tandem_controliq_high,663841
+2024-07-21 01:12,tandem_controliq_high,663841
+2024-07-21 00:23,tandem_cgm_high,663841
+2024-07-20 23:11,tandem_controliq_high,663841
+2024-07-20 20:13,tandem_cgm_high,663841
+2024-07-20 19:51,tandem_controliq_high,663841
+2024-07-20 18:43,tandem_cgm_high,663841
+2024-07-20 18:06,tandem_controliq_high,663841
+2024-07-20 18:03,tandem_cgm_high,663841
+2024-07-20 15:39,tandem_controliq_high,663841
+2024-07-20 14:09,tandem_controliq_high,663841
+2024-07-20 12:59,tandem_controliq_high,663841
+2024-07-20 10:39,tandem_controliq_high,663841
+2024-07-20 09:08,tandem_cgm_high,663841
+2024-07-20 08:59,tandem_controliq_high,663841
+2024-07-20 06:44,tandem_controliq_high,663841
+2024-07-20 06:09,tandem_controliq_high,663841
+2024-07-20 05:04,tandem_controliq_high,663841
+2024-07-20 02:52,tandem_controliq_high,663841
+2024-07-19 22:13,tandem_cgm_high,663841
+2024-07-19 21:55,tandem_controliq_high,663841
+2024-07-19 20:40,tandem_controliq_high,663841
+2024-07-19 20:00,tandem_controliq_high,663841
+2024-07-19 18:55,tandem_controliq_high,663841
+2024-07-19 17:30,tandem_controliq_high,663841
+2024-07-19 15:48,tandem_cgm_high,663841
+2024-07-19 15:15,tandem_controliq_high,663841
+2024-07-19 12:29,tandem_controliq_low,663841
+2024-07-19 10:44,tandem_controliq_low,663841
+2024-07-19 09:39,Resume Pump Alarm (18A),663841
+2024-07-19 09:24,Resume Pump Alarm (18A),663841
+2024-07-19 09:08,tandem_cgm_low_2,663841
+2024-07-19 09:00,tandem_controliq_low,663841
+2024-07-19 01:50,tandem_controliq_high,663841
+2024-07-19 01:20,tandem_controliq_high,663841
+2024-07-19 00:25,tandem_controliq_high,663841
+2024-07-18 23:41,Resume Pump Alarm (18A),663841
+2024-07-18 23:23,Resume Pump Alarm (18A),663841
+2024-07-18 23:13,tandem_cgm_low_2,663841
+2024-07-18 22:59,Resume Pump Alarm (18A),663841
+2024-07-18 22:43,tandem_cgm_low_2,663841
+2024-07-18 22:35,tandem_controliq_low,663841
+2024-07-18 21:35,tandem_controliq_high,663841
+2024-07-18 19:23,tandem_cgm_high,663841
+2024-07-18 19:10,tandem_controliq_high,663841
+2024-07-18 18:59,tandem_cgm_out_of_range,663841
+2024-07-18 18:40,tandem_controliq_high,663841
+2024-07-18 17:50,tandem_controliq_high,663841
+2024-07-18 17:10,tandem_controliq_high,663841
+2024-07-18 16:54,Resume Pump Alarm (18A),663841
+2024-07-18 16:38,Cartridge Loaded,663841
+2024-07-18 15:43,tandem_controliq_high,663841
+2024-07-18 15:28,tandem_cgm_high,663841
+2024-07-18 15:08,tandem_controliq_high,663841
+2024-07-18 13:48,tandem_controliq_high,663841
+2024-07-18 13:22,Low Power Alert (2T),663841
+2024-07-18 12:38,tandem_controliq_high,663841
+2024-07-18 11:18,tandem_cgm_high,663841
+2024-07-18 11:13,tandem_controliq_high,663841
+2024-07-18 10:18,tandem_controliq_high,663841
+2024-07-18 10:03,tandem_controliq_high,663841
+2024-07-18 06:18,tandem_controliq_high,663841
+2024-07-18 05:33,tandem_controliq_high,663841
+2024-07-18 04:58,tandem_controliq_high,663841
+2024-07-18 03:48,tandem_cgm_high,663841
+2024-07-18 03:48,tandem_controliq_high,663841
+2024-07-18 02:28,tandem_controliq_high,663841
+2024-07-18 01:03,tandem_cgm_high,663841
+2024-07-18 00:33,tandem_cgm_high,663841
+2024-07-18 00:28,tandem_controliq_high,663841
+2024-07-17 22:38,tandem_cgm_high,663841
+2024-07-17 22:17,tandem_controliq_high,663841
+2024-07-17 20:23,tandem_cgm_high,663841
+2024-07-17 20:02,tandem_controliq_high,663841
+2024-07-17 19:07,tandem_controliq_high,663841
+2024-07-17 14:23,tandem_cgm_high,663841
+2024-07-17 14:14,tandem_controliq_high,663841
+2024-07-17 14:08,tandem_cgm_high,663841
+2024-07-17 13:13,tandem_controliq_high,663841
+2024-07-17 13:08,tandem_cgm_high,663841
+2024-07-17 12:38,tandem_controliq_high,663841
+2024-07-17 11:53,tandem_controliq_high,663841
+2024-07-17 11:36,tandem_controliq_high,663841
+2024-07-17 11:33,tandem_cgm_high,663841
+2024-07-16 12:07,Auto-Off Alarm (7A),663841
+2024-07-15 14:52,Resume Pump Alarm (18A),663841
+2024-07-15 11:22,Auto-Off Alarm (7A),663841
+2024-07-14 14:13,Low Power Alert (2T),663841
+2024-07-13 20:33,Cartridge Loaded,663841
+2024-07-13 20:28,tandem_cgm_failed_sensor,663841
+2024-07-13 19:09,tandem_cgm_unavailable,663841
+2024-07-13 19:09,Occlusion Alarm (26A),663841
+2024-07-13 19:07,tandem_controliq_high,663841
+2024-07-13 18:55,Occlusion Alarm (26A),663841
+2024-07-13 18:24,tandem_controliq_high,663841
+2024-07-13 18:15,Occlusion Alarm (26A),663841
+2024-07-13 18:13,tandem_controliq_high,663841
+2024-07-13 18:08,tandem_cgm_high,663841
+2024-07-13 17:53,Occlusion Alarm (2A),663841
+2024-07-13 17:28,tandem_cgm_high,663841
+2024-07-13 17:21,tandem_controliq_high,663841
+2024-07-13 16:11,tandem_controliq_high,663841
+2024-07-13 16:03,tandem_cgm_high,663841
+2024-07-13 14:55,tandem_controliq_high,663841
+2024-07-13 14:23,tandem_cgm_high,663841
+2024-07-13 12:28,tandem_cgm_high,663841
+2024-07-13 12:28,tandem_controliq_high,663841
+2024-07-13 08:23,tandem_controliq_high,663841
+2024-07-13 07:33,tandem_controliq_high,663841
+2024-07-13 06:58,tandem_controliq_high,663841
+2024-07-13 06:03,tandem_controliq_high,663841
+2024-07-13 05:18,tandem_controliq_high,663841
+2024-07-13 03:58,tandem_controliq_high,663841
+2024-07-13 01:48,tandem_controliq_high,663841
+2024-07-13 00:13,tandem_controliq_high,663841
+2024-07-13 00:08,tandem_cgm_high,663841
+2024-07-12 23:53,tandem_controliq_high,663841
+2024-07-12 23:13,tandem_controliq_high,663841
+2024-07-12 21:58,tandem_cgm_high,663841
+2024-07-12 21:18,tandem_controliq_high,663841
+2024-07-12 20:03,tandem_controliq_high,663841
+2024-07-12 19:28,tandem_controliq_high,663841
+2024-07-12 19:03,tandem_controliq_high,663841
+2024-07-12 12:16,Resume Pump Alarm (18A),663841
+2024-07-12 11:57,Resume Pump Alarm (18A),663841
+2024-07-12 11:06,tandem_controliq_low,663841
+2024-07-12 02:51,tandem_controliq_high,663841
+2024-07-12 01:09,tandem_cgm_out_of_range,663841
+2024-07-11 19:46,tandem_controliq_high,663841
+2024-07-11 18:48,Resume Pump Alarm (18A),663841
+2024-07-11 18:10,tandem_controliq_low,663841
+2024-07-11 15:25,tandem_controliq_high,663841
+2024-07-11 11:13,tandem_cgm_low_2,663841
+2024-07-11 11:10,tandem_controliq_low,663841
+2024-07-11 10:35,tandem_controliq_low,663841
+2024-07-11 08:10,tandem_controliq_low,663841
+2024-07-11 05:55,tandem_controliq_high,663841
+2024-07-11 03:59,tandem_cgm_out_of_range,663841
+2024-07-11 02:30,tandem_controliq_high,663841
+2024-07-11 01:15,tandem_controliq_high,663841
+2024-07-11 01:03,tandem_cgm_high,663841
+2024-07-10 23:00,tandem_controliq_low,663841
+2024-07-10 22:24,tandem_controliq_high,663841
+2024-07-10 21:14,tandem_controliq_high,663841
+2024-07-10 19:35,Resume Pump Alarm (18A),663841
+2024-07-10 19:08,Resume Pump Alarm (18A),663841
+2024-07-10 09:52,tandem_controliq_high,663841
+2024-07-10 02:42,tandem_controliq_high,663841
+2024-07-10 02:02,tandem_controliq_high,663841
+2024-07-10 00:28,Cartridge Loaded,663841
+2024-07-09 20:40,tandem_controliq_high,663841
+2024-07-09 14:40,tandem_controliq_high,663841
+2024-07-09 13:53,tandem_controliq_high,663841
+2024-07-09 00:58,tandem_cgm_out_of_range,663841
+2024-07-09 00:19,Low Power Alert (2T),663841
+2024-07-08 23:48,tandem_cgm_out_of_range,663841
+2024-07-08 23:33,tandem_controliq_low,663841
+2024-07-08 23:03,tandem_controliq_low,663841
+2024-07-08 17:43,tandem_cgm_low_2,663841
+2024-07-08 17:20,Resume Pump Alarm (18A),663841
+2024-07-08 17:08,tandem_cgm_low,663841
+2024-07-08 13:53,tandem_cgm_high,663841
+2024-07-08 12:53,Resume Pump Alarm (18A),663841
+2024-07-08 12:11,Resume Pump Alarm (18A),663841
+2024-07-08 11:52,Resume Pump Alarm (18A),663841
+2024-07-08 02:13,tandem_cgm_out_of_range,663841
+2024-07-07 11:24,tandem_controliq_low,663841
+2024-07-07 11:23,tandem_cgm_low_2,663841
+2024-07-07 10:18,tandem_cgm_out_of_range,663841
+2024-07-07 09:39,tandem_controliq_low,663841
+2024-07-07 03:42,Low Power Alert (2T),663841
+2024-07-07 03:37,tandem_controliq_low,663841
+2024-07-07 03:02,tandem_controliq_low,663841
+2024-07-07 02:58,tandem_cgm_low_2,663841
+2024-07-07 02:48,tandem_cgm_low_2,663841
+2024-07-07 02:13,tandem_cgm_low_2,663841
+2024-07-07 02:12,tandem_controliq_low,663841
+2024-07-07 00:28,tandem_cgm_high,663841
+2024-07-07 00:17,tandem_controliq_high,663841
+2024-07-06 18:38,tandem_cgm_out_of_range,663841
+2024-07-06 17:28,tandem_cgm_out_of_range,663841
+2024-07-06 16:02,tandem_controliq_high,663841
+2024-07-06 15:07,tandem_controliq_low,663841
+2024-07-06 13:02,tandem_controliq_high,663841
+2024-07-06 13:01,Occlusion Alarm (2A),663841
+2024-07-06 13:00,tandem_controliq_high,663841
+2024-07-06 12:28,tandem_cgm_out_of_range,663841
+2024-07-06 11:50,tandem_controliq_high,663841
+2024-07-06 11:33,tandem_cgm_high,663841
+2024-07-06 10:58,tandem_cgm_out_of_range,663841
+2024-07-06 10:38,tandem_cgm_high,663841
+2024-07-05 23:53,tandem_cgm_high,663841
+2024-07-05 22:13,tandem_cgm_out_of_range,663841
+2024-07-05 19:08,tandem_cgm_out_of_range,663841
+2024-07-05 15:28,tandem_cgm_out_of_range,663841
+2024-07-05 15:17,tandem_controliq_low,663841
+2024-07-05 15:08,tandem_cgm_low_2,663841
+2024-07-05 14:56,Resume Pump Alarm (18A),663841
+2024-07-05 14:43,tandem_cgm_low,663841
+2024-07-05 14:41,tandem_controliq_low,663841
+2024-07-05 14:38,Resume Pump Alarm (18A),663841
+2024-07-05 14:33,tandem_cgm_low_2,663841
+2024-07-05 14:19,tandem_controliq_low,663841
+2024-07-05 13:32,Resume Pump Alarm (18A),663841
+2024-07-05 13:28,tandem_cgm_low_2,663841
+2024-07-05 13:15,tandem_controliq_low,663841
+2024-07-05 13:13,tandem_cgm_low,663841
+2024-07-05 12:48,tandem_cgm_out_of_range,663841
+2024-07-05 12:30,tandem_controliq_low,663841
+2024-07-05 11:44,Resume Pump Alarm (18A),663841
+2024-07-05 11:23,Resume Pump Alarm (18A),663841
+2024-07-05 11:18,tandem_cgm_low_2,663841
+2024-07-05 11:08,tandem_cgm_low,663841
+2024-07-05 10:53,tandem_cgm_low_2,663841
+2024-07-05 10:52,Resume Pump Alarm (18A),663841
+2024-07-05 10:23,tandem_cgm_out_of_range,663841
+2024-07-05 10:19,Resume Pump Alarm (18A),663841
+2024-07-05 02:34,tandem_controliq_low,663841
+2024-07-04 21:58,tandem_cgm_out_of_range,663841
+2024-07-04 21:34,tandem_cgm_out_of_range,663841
+2024-07-04 18:13,tandem_cgm_out_of_range,663841
+2024-07-04 17:43,tandem_cgm_low_2,663841
+2024-07-04 17:41,Resume Pump Alarm (18A),663841
+2024-07-04 17:23,tandem_cgm_low,663841
+2024-07-04 17:13,tandem_cgm_low_2,663841
+2024-07-04 17:12,tandem_controliq_low,663841
+2024-07-04 10:37,tandem_controliq_high,663841
+2024-07-03 22:13,Cartridge Loaded,663841

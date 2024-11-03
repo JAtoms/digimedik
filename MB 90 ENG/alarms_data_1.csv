@@ -1,0 +1,1096 @@
+﻿Name:,Date Range:2024-06-25 - 2024-09-22
+Timestamp,Alarm/Event,Serial Number
+2024-09-22 22:54,tandem_controliq_high,1003404
+2024-09-22 22:50,Occlusion Alarm (2A),1003404
+2024-09-22 22:39,tandem_controliq_high,1003404
+2024-09-22 21:37,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-22 21:34,tandem_controliq_high,1003404
+2024-09-22 21:28,tandem_cgm_high,1003404
+2024-09-22 18:53,tandem_cgm_replace_sensor,1003404
+2024-09-22 18:48,tandem_controliq_high,1003404
+2024-09-22 16:52,tandem_cgm_sensor_expiring,1003404
+2024-09-22 15:39,Occlusion Alarm (2A),1003404
+2024-09-22 14:21,tandem_controliq_low,1003404
+2024-09-22 12:52,tandem_cgm_sensor_expiring,1003404
+2024-09-22 12:13,Cartridge Loaded,1003404
+2024-09-22 09:41,Low Power Alert (2T),1003404
+2024-09-22 03:48,tandem_cgm_out_of_range,1003404
+2024-09-21 22:33,tandem_controliq_high,1003404
+2024-09-21 22:28,tandem_cgm_high,1003404
+2024-09-21 21:35,Occlusion Alarm (2A),1003404
+2024-09-21 15:20,tandem_controliq_low,1003404
+2024-09-21 13:27,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-09-21 13:10,tandem_controliq_low,1003404
+2024-09-20 19:25,tandem_controliq_low,1003404
+2024-09-20 17:43,tandem_cgm_out_of_range,1003404
+2024-09-20 14:08,tandem_cgm_high,1003404
+2024-09-19 21:05,tandem_controliq_high,1003404
+2024-09-19 20:42,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-19 20:32,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-19 19:42,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-19 18:48,tandem_cgm_high,1003404
+2024-09-19 18:30,tandem_controliq_high,1003404
+2024-09-19 17:58,Occlusion Alarm (2A),1003404
+2024-09-19 17:07,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-19 16:50,tandem_controliq_low,1003404
+2024-09-19 02:10,tandem_controliq_low,1003404
+2024-09-19 02:07,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-19 01:40,tandem_controliq_low,1003404
+2024-09-19 01:20,tandem_controliq_low,1003404
+2024-09-18 22:40,tandem_controliq_high,1003404
+2024-09-18 22:05,tandem_controliq_high,1003404
+2024-09-18 21:46,Cartridge Loaded,1003404
+2024-09-18 20:57,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-18 19:57,tandem_controliq_high,1003404
+2024-09-18 19:17,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-18 18:37,tandem_controliq_high,1003404
+2024-09-18 18:33,tandem_cgm_high,1003404
+2024-09-18 17:02,tandem_controliq_low,1003404
+2024-09-18 16:52,tandem_controliq_low,1003404
+2024-09-18 13:37,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-18 12:12,tandem_controliq_high,1003404
+2024-09-18 11:47,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-18 11:33,tandem_cgm_high,1003404
+2024-09-18 10:23,tandem_cgm_high,1003404
+2024-09-18 10:02,tandem_controliq_high,1003404
+2024-09-18 08:57,tandem_controliq_high,1003404
+2024-09-18 08:32,tandem_controliq_high,1003404
+2024-09-18 08:02,tandem_controliq_high,1003404
+2024-09-18 07:58,tandem_cgm_high,1003404
+2024-09-18 07:37,tandem_controliq_high,1003404
+2024-09-18 05:13,tandem_cgm_out_of_range,1003404
+2024-09-17 23:10,tandem_controliq_high,1003404
+2024-09-17 23:08,tandem_cgm_high,1003404
+2024-09-17 22:50,tandem_controliq_high,1003404
+2024-09-17 22:00,tandem_controliq_high,1003404
+2024-09-17 21:53,tandem_cgm_high,1003404
+2024-09-17 20:58,tandem_cgm_high,1003404
+2024-09-17 20:03,tandem_cgm_high,1003404
+2024-09-17 19:59,tandem_controliq_high,1003404
+2024-09-17 16:26,Occlusion Alarm (2A),1003404
+2024-09-17 15:12,Occlusion Alarm (2A),1003404
+2024-09-17 14:34,tandem_controliq_high,1003404
+2024-09-17 12:13,tandem_cgm_high,1003404
+2024-09-17 12:03,tandem_controliq_high,1003404
+2024-09-17 02:18,tandem_controliq_high,1003404
+2024-09-16 23:48,tandem_controliq_high,1003404
+2024-09-16 23:12,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-16 22:53,tandem_cgm_high,1003404
+2024-09-16 22:34,Cartridge Loaded,1003404
+2024-09-16 22:33,tandem_cgm_high,1003404
+2024-09-16 22:08,tandem_cgm_high,1003404
+2024-09-16 21:46,tandem_controliq_high,1003404
+2024-09-16 20:03,tandem_cgm_high,1003404
+2024-09-16 19:43,tandem_cgm_high,1003404
+2024-09-16 19:40,tandem_controliq_high,1003404
+2024-09-16 16:35,tandem_controliq_high,1003404
+2024-09-16 16:33,tandem_cgm_high,1003404
+2024-09-16 16:25,tandem_controliq_high,1003404
+2024-09-16 12:38,Occlusion Alarm (2A),1003404
+2024-09-16 08:03,tandem_cgm_out_of_range,1003404
+2024-09-15 23:56,tandem_controliq_high,1003404
+2024-09-15 22:12,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-15 21:38,tandem_cgm_high,1003404
+2024-09-15 21:18,tandem_cgm_high,1003404
+2024-09-15 21:11,tandem_controliq_high,1003404
+2024-09-15 19:56,tandem_controliq_high,1003404
+2024-09-15 16:09,tandem_controliq_low,1003404
+2024-09-15 09:48,tandem_cgm_out_of_range,1003404
+2024-09-14 21:03,tandem_controliq_high,1003404
+2024-09-14 20:38,tandem_cgm_out_of_range,1003404
+2024-09-14 20:08,tandem_controliq_high,1003404
+2024-09-14 20:03,tandem_cgm_out_of_range,1003404
+2024-09-14 19:57,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-14 19:38,tandem_controliq_high,1003404
+2024-09-14 17:47,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-14 17:40,Low Power Alert (2T),1003404
+2024-09-14 17:23,tandem_cgm_high,1003404
+2024-09-14 16:27,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-14 16:18,tandem_controliq_low,1003404
+2024-09-14 11:02,tandem_controliq_high,1003404
+2024-09-14 09:08,tandem_cgm_out_of_range,1003404
+2024-09-14 06:39,Cartridge Loaded,1003404
+2024-09-14 05:39,tandem_controliq_high,1003404
+2024-09-14 03:57,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-14 03:49,tandem_controliq_high,1003404
+2024-09-14 03:09,tandem_controliq_high,1003404
+2024-09-14 02:38,tandem_cgm_out_of_range,1003404
+2024-09-14 01:37,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-14 01:29,tandem_controliq_high,1003404
+2024-09-13 23:42,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-13 23:34,tandem_controliq_high,1003404
+2024-09-13 22:04,tandem_controliq_high,1003404
+2024-09-13 21:39,tandem_controliq_high,1003404
+2024-09-13 19:59,tandem_cgm_out_of_range,1003404
+2024-09-13 19:57,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-13 19:27,tandem_controliq_high,1003404
+2024-09-13 19:23,tandem_cgm_high,1003404
+2024-09-13 14:41,tandem_controliq_high,1003404
+2024-09-13 14:01,tandem_controliq_high,1003404
+2024-09-13 13:17,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-13 12:41,tandem_controliq_high,1003404
+2024-09-13 12:18,tandem_cgm_out_of_range,1003404
+2024-09-13 11:48,tandem_cgm_high,1003404
+2024-09-13 11:42,tandem_controliq_high,1003404
+2024-09-13 11:14,tandem_cgm_out_of_range,1003404
+2024-09-13 10:28,tandem_cgm_out_of_range,1003404
+2024-09-13 08:02,tandem_controliq_high,1003404
+2024-09-13 07:58,tandem_cgm_high,1003404
+2024-09-13 00:28,tandem_cgm_out_of_range,1003404
+2024-09-12 23:42,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-12 23:07,tandem_controliq_low,1003404
+2024-09-12 23:03,tandem_cgm_low_2,1003404
+2024-09-12 23:02,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-09-12 22:58,tandem_cgm_out_of_range,1003404
+2024-09-12 20:53,tandem_cgm_high,1003404
+2024-09-12 17:57,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 17:53,tandem_cgm_unavailable,1003404
+2024-09-12 16:52,tandem_controliq_high,1003404
+2024-09-12 16:52,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 16:48,tandem_cgm_high,1003404
+2024-09-12 16:37,tandem_controliq_high,1003404
+2024-09-12 16:17,tandem_controliq_high,1003404
+2024-09-12 16:12,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 16:08,tandem_cgm_unavailable,1003404
+2024-09-12 15:38,tandem_cgm_high,1003404
+2024-09-12 15:12,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 15:08,tandem_cgm_unavailable,1003404
+2024-09-12 14:52,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-12 14:32,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-12 14:23,tandem_cgm_high,1003404
+2024-09-12 14:12,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 13:08,tandem_cgm_unavailable,1003404
+2024-09-12 12:42,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 12:38,tandem_cgm_out_of_range,1003404
+2024-09-12 11:53,tandem_cgm_out_of_range,1003404
+2024-09-12 11:33,tandem_cgm_unavailable,1003404
+2024-09-12 11:32,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 11:14,tandem_controliq_low,1003404
+2024-09-12 09:52,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-12 09:43,tandem_cgm_out_of_range,1003404
+2024-09-12 06:22,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-09-12 06:09,tandem_controliq_low,1003404
+2024-09-12 05:27,dexcom_urgent_low_alert,Dexcom g6 (5dc2b02)
+2024-09-12 05:22,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-12 05:19,tandem_controliq_low,1003404
+2024-09-12 05:18,tandem_cgm_low,1003404
+2024-09-12 02:03,tandem_cgm_out_of_range,1003404
+2024-09-11 22:14,tandem_controliq_high,1003404
+2024-09-11 21:54,tandem_controliq_high,1003404
+2024-09-11 21:36,Cartridge Loaded,1003404
+2024-09-11 20:58,tandem_cgm_high,1003404
+2024-09-11 19:43,tandem_cgm_high,1003404
+2024-09-11 19:31,tandem_controliq_high,1003404
+2024-09-11 19:28,tandem_cgm_high,1003404
+2024-09-11 18:23,tandem_cgm_out_of_range,1003404
+2024-09-11 14:03,tandem_cgm_out_of_range,1003404
+2024-09-11 13:07,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-11 13:03,tandem_cgm_unavailable,1003404
+2024-09-11 11:47,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-11 11:33,tandem_cgm_out_of_range,1003404
+2024-09-11 11:27,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-11 11:03,tandem_cgm_high,1003404
+2024-09-11 10:48,tandem_cgm_unavailable,1003404
+2024-09-11 10:47,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-11 10:22,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-11 08:48,tandem_cgm_out_of_range,1003404
+2024-09-11 07:58,tandem_cgm_out_of_range,1003404
+2024-09-11 05:26,tandem_controliq_low,1003404
+2024-09-11 03:21,tandem_controliq_low,1003404
+2024-09-10 23:53,tandem_cgm_out_of_range,1003404
+2024-09-10 21:36,tandem_controliq_low,1003404
+2024-09-10 19:53,tandem_cgm_out_of_range,1003404
+2024-09-10 18:38,tandem_cgm_out_of_range,1003404
+2024-09-10 15:11,tandem_controliq_high,1003404
+2024-09-10 14:18,tandem_cgm_out_of_range,1003404
+2024-09-10 13:52,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-10 13:47,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-10 13:46,tandem_controliq_high,1003404
+2024-09-10 12:51,tandem_controliq_high,1003404
+2024-09-10 12:33,tandem_cgm_out_of_range,1003404
+2024-09-10 11:57,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-10 11:38,tandem_cgm_high,1003404
+2024-09-10 11:36,tandem_controliq_high,1003404
+2024-09-10 05:53,tandem_controliq_low,1003404
+2024-09-10 04:13,tandem_cgm_out_of_range,1003404
+2024-09-10 02:33,tandem_cgm_out_of_range,1003404
+2024-09-10 01:13,tandem_cgm_out_of_range,1003404
+2024-09-09 22:53,tandem_controliq_high,1003404
+2024-09-09 22:18,tandem_controliq_high,1003404
+2024-09-09 14:58,tandem_cgm_out_of_range,1003404
+2024-09-09 13:28,tandem_cgm_out_of_range,1003404
+2024-09-09 03:32,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-09 03:30,tandem_controliq_high,1003404
+2024-09-09 03:30,Cartridge Loaded,1003404
+2024-09-09 03:21,Empty Cartridge Alarm (8A),1003404
+2024-09-09 02:03,tandem_controliq_high,1003404
+2024-09-09 01:12,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-09 00:43,tandem_controliq_high,1003404
+2024-09-09 00:43,tandem_cgm_high,1003404
+2024-09-09 00:08,tandem_cgm_high,1003404
+2024-09-08 23:58,tandem_controliq_high,1003404
+2024-09-08 23:17,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-08 23:13,tandem_controliq_low,1003404
+2024-09-08 23:07,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-09-08 22:43,tandem_controliq_low,1003404
+2024-09-08 20:08,tandem_cgm_high,1003404
+2024-09-08 20:07,tandem_controliq_high,1003404
+2024-09-08 16:32,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-08 16:09,tandem_controliq_high,1003404
+2024-09-08 16:08,tandem_cgm_high,1003404
+2024-09-08 13:32,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-08 13:17,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-08 12:53,tandem_cgm_high,1003404
+2024-09-08 12:49,tandem_controliq_high,1003404
+2024-09-08 11:41,Low Power Alert (2T),1003404
+2024-09-08 10:47,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-08 10:33,tandem_controliq_high,1003404
+2024-09-08 10:18,tandem_cgm_high,1003404
+2024-09-08 09:03,tandem_cgm_out_of_range,1003404
+2024-09-08 04:58,tandem_cgm_out_of_range,1003404
+2024-09-08 01:53,tandem_cgm_high,1003404
+2024-09-08 00:46,tandem_controliq_high,1003404
+2024-09-08 00:02,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-08 00:01,tandem_controliq_high,1003404
+2024-09-07 23:53,tandem_cgm_high,1003404
+2024-09-07 18:38,tandem_cgm_out_of_range,1003404
+2024-09-07 17:58,tandem_cgm_out_of_range,1003404
+2024-09-07 16:58,tandem_cgm_out_of_range,1003404
+2024-09-07 16:27,tandem_controliq_low,1003404
+2024-09-07 13:48,tandem_cgm_sensor_expiring,1003404
+2024-09-07 06:13,tandem_cgm_out_of_range,1003404
+2024-09-06 20:24,tandem_controliq_high,1003404
+2024-09-06 20:13,tandem_cgm_high,1003404
+2024-09-06 19:53,tandem_cgm_high,1003404
+2024-09-06 19:11,Low Power Alert (2T),1003404
+2024-09-06 18:53,tandem_cgm_high,1003404
+2024-09-06 18:33,tandem_cgm_high,1003404
+2024-09-06 18:09,tandem_controliq_high,1003404
+2024-09-06 17:53,tandem_cgm_out_of_range,1003404
+2024-09-06 16:44,tandem_controliq_high,1003404
+2024-09-06 15:59,tandem_controliq_high,1003404
+2024-09-06 15:35,Cartridge Loaded,1003404
+2024-09-06 15:30,Empty Cartridge Alarm (8A),1003404
+2024-09-06 15:05,tandem_controliq_high,1003404
+2024-09-06 14:02,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-06 13:12,Low Power Alert (2T),1003404
+2024-09-06 13:07,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-06 12:45,tandem_controliq_high,1003404
+2024-09-06 12:43,tandem_cgm_high,1003404
+2024-09-06 10:08,tandem_cgm_high,1003404
+2024-09-06 09:25,tandem_controliq_high,1003404
+2024-09-05 20:10,tandem_controliq_high,1003404
+2024-09-05 20:07,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-05 19:48,tandem_cgm_high,1003404
+2024-09-05 18:00,tandem_controliq_high,1003404
+2024-09-05 17:40,tandem_controliq_high,1003404
+2024-09-05 17:33,tandem_cgm_out_of_range,1003404
+2024-09-05 17:00,tandem_controliq_high,1003404
+2024-09-05 11:47,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-05 11:13,tandem_cgm_high,1003404
+2024-09-05 09:38,tandem_cgm_out_of_range,1003404
+2024-09-05 08:08,tandem_cgm_out_of_range,1003404
+2024-09-04 20:33,tandem_cgm_high,1003404
+2024-09-04 20:18,tandem_cgm_high,1003404
+2024-09-04 20:02,tandem_controliq_high,1003404
+2024-09-04 14:38,tandem_cgm_out_of_range,1003404
+2024-09-04 02:13,tandem_cgm_out_of_range,1003404
+2024-09-04 01:47,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-09-04 01:44,tandem_cgm_unavailable,1003404
+2024-09-03 23:24,tandem_controliq_low,1003404
+2024-09-03 22:41,Cartridge Loaded,1003404
+2024-09-03 21:50,tandem_controliq_high,1003404
+2024-09-03 20:55,tandem_controliq_high,1003404
+2024-09-03 20:20,tandem_controliq_high,1003404
+2024-09-03 20:03,tandem_cgm_high,1003404
+2024-09-03 18:18,tandem_cgm_high,1003404
+2024-09-03 18:10,tandem_controliq_high,1003404
+2024-09-03 15:03,tandem_cgm_out_of_range,1003404
+2024-09-03 14:12,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-03 14:05,tandem_controliq_high,1003404
+2024-09-03 13:22,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-03 12:58,tandem_cgm_out_of_range,1003404
+2024-09-03 12:33,tandem_controliq_high,1003404
+2024-09-03 12:28,tandem_cgm_high,1003404
+2024-09-03 11:43,tandem_controliq_high,1003404
+2024-09-03 11:43,tandem_cgm_high,1003404
+2024-09-03 11:42,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-03 10:36,tandem_controliq_high,1003404
+2024-09-03 10:23,tandem_cgm_high,1003404
+2024-09-03 09:53,tandem_cgm_out_of_range,1003404
+2024-09-03 02:23,tandem_cgm_out_of_range,1003404
+2024-09-02 21:33,tandem_cgm_high,1003404
+2024-09-02 21:03,tandem_cgm_high,1003404
+2024-09-02 20:38,tandem_cgm_out_of_range,1003404
+2024-09-02 18:47,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-02 18:34,tandem_controliq_high,1003404
+2024-09-02 18:33,tandem_cgm_high,1003404
+2024-09-02 16:53,tandem_cgm_out_of_range,1003404
+2024-09-02 16:34,tandem_controliq_high,1003404
+2024-09-02 16:18,tandem_cgm_high,1003404
+2024-09-02 15:03,tandem_cgm_high,1003404
+2024-09-02 14:49,tandem_controliq_high,1003404
+2024-09-02 13:59,tandem_controliq_high,1003404
+2024-09-02 13:58,tandem_cgm_high,1003404
+2024-09-02 11:19,tandem_controliq_low,1003404
+2024-09-02 08:38,tandem_cgm_out_of_range,1003404
+2024-09-02 00:18,tandem_cgm_out_of_range,1003404
+2024-09-01 22:48,tandem_cgm_high,1003404
+2024-09-01 22:22,tandem_controliq_high,1003404
+2024-09-01 20:33,tandem_cgm_out_of_range,1003404
+2024-09-01 19:06,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-09-01 18:38,Cartridge Loaded,1003404
+2024-09-01 18:28,tandem_cgm_high,1003404
+2024-09-01 18:26,tandem_controliq_high,1003404
+2024-09-01 15:38,tandem_cgm_out_of_range,1003404
+2024-09-01 12:26,tandem_controliq_high,1003404
+2024-09-01 02:01,Low Power Alert (2T),1003404
+2024-09-01 00:26,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-31 23:31,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-31 23:08,tandem_cgm_high,1003404
+2024-08-31 23:05,tandem_controliq_high,1003404
+2024-08-31 19:58,tandem_cgm_high,1003404
+2024-08-31 19:11,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-31 18:58,tandem_cgm_high,1003404
+2024-08-31 18:55,tandem_controliq_high,1003404
+2024-08-31 15:23,tandem_cgm_high,1003404
+2024-08-31 15:20,tandem_controliq_high,1003404
+2024-08-31 13:50,tandem_controliq_high,1003404
+2024-08-31 12:35,tandem_controliq_low,1003404
+2024-08-31 11:05,tandem_controliq_high,1003404
+2024-08-31 09:01,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-31 08:41,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-31 08:18,tandem_cgm_high,1003404
+2024-08-31 07:57,tandem_controliq_high,1003404
+2024-08-31 03:53,tandem_cgm_out_of_range,1003404
+2024-08-31 03:08,tandem_cgm_out_of_range,1003404
+2024-08-31 01:13,tandem_cgm_out_of_range,1003404
+2024-08-31 00:33,tandem_cgm_out_of_range,1003404
+2024-08-30 23:13,tandem_cgm_out_of_range,1003404
+2024-08-30 21:28,tandem_cgm_out_of_range,1003404
+2024-08-30 14:26,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-08-30 14:12,tandem_controliq_low,1003404
+2024-08-30 12:52,tandem_controliq_high,1003404
+2024-08-30 12:46,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-30 10:27,tandem_controliq_high,1003404
+2024-08-30 10:11,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-30 09:48,tandem_cgm_high,1003404
+2024-08-30 06:32,Cartridge Loaded,1003404
+2024-08-30 03:15,tandem_controliq_high,1003404
+2024-08-30 03:00,tandem_controliq_high,1003404
+2024-08-30 02:51,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-30 02:33,tandem_cgm_high,1003404
+2024-08-30 01:53,tandem_controliq_low,1003404
+2024-08-30 00:28,tandem_cgm_out_of_range,1003404
+2024-08-29 23:38,tandem_cgm_out_of_range,1003404
+2024-08-29 22:08,tandem_controliq_high,1003404
+2024-08-29 22:06,Low Power Alert (2T),1003404
+2024-08-29 20:33,tandem_cgm_out_of_range,1003404
+2024-08-29 20:26,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-29 20:03,tandem_controliq_high,1003404
+2024-08-29 18:43,tandem_cgm_out_of_range,1003404
+2024-08-29 17:53,tandem_cgm_out_of_range,1003404
+2024-08-29 15:42,tandem_controliq_high,1003404
+2024-08-29 13:37,tandem_controliq_high,1003404
+2024-08-29 11:34,tandem_controliq_high,1003404
+2024-08-29 11:28,tandem_cgm_out_of_range,1003404
+2024-08-29 10:34,tandem_controliq_high,1003404
+2024-08-29 10:13,tandem_cgm_out_of_range,1003404
+2024-08-29 09:56,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-29 09:43,tandem_cgm_high,1003404
+2024-08-29 09:24,tandem_controliq_high,1003404
+2024-08-29 06:14,tandem_controliq_high,1003404
+2024-08-29 05:32,tandem_controliq_high,1003404
+2024-08-29 03:47,tandem_controliq_high,1003404
+2024-08-29 02:37,tandem_controliq_high,1003404
+2024-08-29 02:01,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-29 01:57,tandem_controliq_high,1003404
+2024-08-29 01:48,tandem_cgm_high,1003404
+2024-08-28 22:48,tandem_cgm_out_of_range,1003404
+2024-08-28 22:08,tandem_cgm_high,1003404
+2024-08-28 21:43,tandem_cgm_out_of_range,1003404
+2024-08-28 19:41,tandem_low_transmitter_battery_3,1003404
+2024-08-28 14:06,tandem_cgm_sensor_expiring,1003404
+2024-08-28 13:17,tandem_controliq_low,1003404
+2024-08-28 11:58,Cartridge Loaded,1003404
+2024-08-28 11:47,Empty Cartridge Alarm (8A),1003404
+2024-08-28 09:14,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-28 08:47,tandem_controliq_high,1003404
+2024-08-28 08:46,tandem_cgm_high,1003404
+2024-08-28 00:47,tandem_controliq_high,1003404
+2024-08-28 00:41,tandem_cgm_out_of_range,1003404
+2024-08-27 23:57,tandem_controliq_high,1003404
+2024-08-27 23:39,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-27 23:02,tandem_controliq_high,1003404
+2024-08-27 23:01,tandem_cgm_high,1003404
+2024-08-27 21:49,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-27 21:47,tandem_controliq_low,1003404
+2024-08-27 15:01,tandem_cgm_out_of_range,1003404
+2024-08-27 13:39,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-27 13:34,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-08-27 13:29,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-27 13:22,tandem_controliq_low,1003404
+2024-08-27 12:59,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-08-27 12:32,tandem_controliq_low,1003404
+2024-08-27 09:34,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-27 09:07,tandem_controliq_high,1003404
+2024-08-27 09:06,tandem_cgm_high,1003404
+2024-08-27 00:26,tandem_cgm_out_of_range,1003404
+2024-08-26 21:27,tandem_controliq_high,1003404
+2024-08-26 20:04,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-08-26 20:01,tandem_cgm_low_2,1003404
+2024-08-26 19:42,tandem_controliq_low,1003404
+2024-08-26 17:51,tandem_cgm_out_of_range,1003404
+2024-08-26 15:16,tandem_cgm_out_of_range,1003404
+2024-08-26 13:36,tandem_cgm_out_of_range,1003404
+2024-08-26 13:02,tandem_controliq_high,1003404
+2024-08-26 12:32,tandem_controliq_high,1003404
+2024-08-26 11:54,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-26 11:31,tandem_cgm_high,1003404
+2024-08-26 10:34,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-26 09:51,tandem_controliq_high,1003404
+2024-08-26 09:46,tandem_cgm_high,1003404
+2024-08-26 06:22,Cartridge Loaded,1003404
+2024-08-26 03:46,tandem_cgm_out_of_range,1003404
+2024-08-26 00:57,tandem_cgm_out_of_range,1003404
+2024-08-25 19:58,tandem_controliq_high,1003404
+2024-08-25 19:36,tandem_cgm_high,1003404
+2024-08-25 14:02,tandem_controliq_high,1003404
+2024-08-25 14:01,tandem_cgm_high,1003404
+2024-08-25 11:31,tandem_controliq_high,1003404
+2024-08-24 22:24,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-24 22:06,tandem_controliq_high,1003404
+2024-08-24 21:34,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-24 20:26,tandem_cgm_out_of_range,1003404
+2024-08-24 19:14,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-24 18:51,tandem_cgm_high,1003404
+2024-08-24 18:46,tandem_controliq_high,1003404
+2024-08-24 16:51,tandem_cgm_high,1003404
+2024-08-24 16:26,tandem_controliq_high,1003404
+2024-08-24 14:34,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-24 14:16,tandem_controliq_high,1003404
+2024-08-24 14:16,tandem_cgm_high,1003404
+2024-08-24 14:06,tandem_cgm_out_of_range,1003404
+2024-08-24 12:36,tandem_cgm_out_of_range,1003404
+2024-08-24 09:16,tandem_cgm_out_of_range,1003404
+2024-08-24 03:16,tandem_controliq_high,1003404
+2024-08-24 02:51,tandem_cgm_high,1003404
+2024-08-24 02:49,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-08-24 02:46,tandem_cgm_unavailable,1003404
+2024-08-24 02:16,tandem_controliq_low,1003404
+2024-08-24 01:32,tandem_cgm_unavailable,1003404
+2024-08-24 01:29,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-08-24 01:09,dexcom_urgent_low_alert,Dexcom g6 (5dc2b02)
+2024-08-24 01:04,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-24 00:56,tandem_cgm_low_2,1003404
+2024-08-24 00:51,tandem_controliq_low,1003404
+2024-08-24 00:31,tandem_controliq_high,1003404
+2024-08-24 00:21,tandem_cgm_high,1003404
+2024-08-23 23:46,tandem_cgm_high,1003404
+2024-08-23 23:31,tandem_controliq_high,1003404
+2024-08-23 23:16,tandem_cgm_high,1003404
+2024-08-23 22:56,tandem_controliq_high,1003404
+2024-08-23 22:21,tandem_cgm_high,1003404
+2024-08-23 22:01,tandem_cgm_high,1003404
+2024-08-23 21:41,tandem_cgm_out_of_range,1003404
+2024-08-23 20:46,tandem_controliq_high,1003404
+2024-08-23 20:13,Cartridge Loaded,1003404
+2024-08-23 20:10,Empty Cartridge Alarm (8A),1003404
+2024-08-23 15:42,tandem_cgm_out_of_range,1003404
+2024-08-23 14:21,tandem_cgm_out_of_range,1003404
+2024-08-23 13:16,tandem_controliq_high,1003404
+2024-08-23 13:09,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-23 12:06,tandem_cgm_out_of_range,1003404
+2024-08-23 11:09,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-23 11:06,tandem_controliq_high,1003404
+2024-08-23 10:51,tandem_cgm_high,1003404
+2024-08-23 08:47,tandem_cgm_out_of_range,1003404
+2024-08-23 02:03,tandem_controliq_high,1003404
+2024-08-23 01:14,dexcom_urgent_low_alert,Dexcom g6 (5dc2b02)
+2024-08-23 01:09,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-23 01:06,tandem_cgm_low,1003404
+2024-08-23 00:58,tandem_controliq_low,1003404
+2024-08-23 00:21,tandem_cgm_high,1003404
+2024-08-23 00:18,tandem_controliq_high,1003404
+2024-08-22 23:31,tandem_cgm_out_of_range,1003404
+2024-08-22 22:57,tandem_cgm_out_of_range,1003404
+2024-08-22 22:47,tandem_cgm_unavailable,1003404
+2024-08-22 22:44,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-08-22 21:46,tandem_cgm_high,1003404
+2024-08-22 21:06,tandem_cgm_high,1003404
+2024-08-22 20:24,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-22 19:57,tandem_controliq_high,1003404
+2024-08-22 19:36,tandem_cgm_out_of_range,1003404
+2024-08-22 19:19,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-22 19:02,tandem_controliq_high,1003404
+2024-08-22 16:46,tandem_cgm_high,1003404
+2024-08-22 16:31,tandem_cgm_high,1003404
+2024-08-22 16:08,tandem_controliq_high,1003404
+2024-08-22 12:56,tandem_cgm_out_of_range,1003404
+2024-08-22 12:08,tandem_controliq_high,1003404
+2024-08-22 11:31,tandem_cgm_out_of_range,1003404
+2024-08-22 10:41,tandem_cgm_out_of_range,1003404
+2024-08-22 09:56,tandem_cgm_out_of_range,1003404
+2024-08-22 09:17,tandem_cgm_out_of_range,1003404
+2024-08-22 08:41,tandem_cgm_out_of_range,1003404
+2024-08-22 05:59,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-08-22 05:53,tandem_controliq_low,1003404
+2024-08-22 05:13,tandem_controliq_low,1003404
+2024-08-22 01:18,tandem_controliq_low,1003404
+2024-08-21 23:38,tandem_controliq_high,1003404
+2024-08-21 22:13,tandem_controliq_high,1003404
+2024-08-21 20:26,tandem_cgm_out_of_range,1003404
+2024-08-21 17:59,Cartridge Loaded,1003404
+2024-08-21 17:56,Empty Cartridge Alarm (8A),1003404
+2024-08-21 14:01,tandem_cgm_out_of_range,1003404
+2024-08-21 13:06,tandem_cgm_out_of_range,1003404
+2024-08-21 12:17,tandem_controliq_low,1003404
+2024-08-21 05:29,tandem_controliq_low,1003404
+2024-08-21 04:44,dexcom_urgent_low_alert,Dexcom g6 (5dc2b02)
+2024-08-21 04:39,tandem_controliq_low,1003404
+2024-08-21 04:36,tandem_cgm_low,1003404
+2024-08-21 01:59,dexcom_brief_sensor_issue,Dexcom g6 (5dc2b02)
+2024-08-21 01:56,tandem_cgm_unavailable,1003404
+2024-08-21 01:34,tandem_controliq_low,1003404
+2024-08-21 01:34,dexcom_urgent_low_alert,Dexcom g6 (5dc2b02)
+2024-08-21 01:31,tandem_cgm_low,1003404
+2024-08-21 01:26,tandem_cgm_out_of_range,1003404
+2024-08-21 01:24,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-21 00:39,dexcom_urgent_low_alert,Dexcom g6 (5dc2b02)
+2024-08-21 00:34,tandem_controliq_low,1003404
+2024-08-21 00:31,tandem_cgm_low,1003404
+2024-08-20 23:11,tandem_cgm_out_of_range,1003404
+2024-08-20 16:28,tandem_controliq_high,1003404
+2024-08-20 16:26,tandem_cgm_high,1003404
+2024-08-20 16:03,tandem_controliq_high,1003404
+2024-08-20 15:56,tandem_cgm_out_of_range,1003404
+2024-08-20 09:47,Low Power Alert (2T),1003404
+2024-08-20 04:44,tandem_controliq_low,1003404
+2024-08-20 01:14,tandem_controliq_low,1003404
+2024-08-20 00:16,tandem_cgm_out_of_range,1003404
+2024-08-19 23:34,tandem_controliq_low,1003404
+2024-08-19 21:04,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-19 20:39,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-19 19:56,tandem_cgm_high,1003404
+2024-08-19 19:54,tandem_controliq_high,1003404
+2024-08-19 18:47,tandem_cgm_out_of_range,1003404
+2024-08-19 16:56,tandem_cgm_out_of_range,1003404
+2024-08-19 04:01,tandem_cgm_out_of_range,1003404
+2024-08-19 00:11,tandem_cgm_out_of_range,1003404
+2024-08-18 22:30,tandem_controliq_high,1003404
+2024-08-18 22:13,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-18 22:10,tandem_controliq_high,1003404
+2024-08-18 22:06,tandem_cgm_high,1003404
+2024-08-18 20:36,tandem_cgm_out_of_range,1003404
+2024-08-18 20:06,tandem_low_transmitter_battery_3,1003404
+2024-08-18 19:56,tandem_cgm_replace_sensor,1003404
+2024-08-18 19:55,tandem_controliq_high,1003404
+2024-08-18 18:53,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-18 18:42,Cartridge Loaded,1003404
+2024-08-18 17:28,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-18 17:21,tandem_controliq_high,1003404
+2024-08-18 17:11,tandem_cgm_high,1003404
+2024-08-18 13:56,tandem_cgm_sensor_expiring,1003404
+2024-08-17 22:48,tandem_controliq_high,1003404
+2024-08-17 22:43,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-17 22:31,tandem_cgm_out_of_range,1003404
+2024-08-17 20:48,tandem_controliq_high,1003404
+2024-08-17 18:58,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-17 18:43,tandem_controliq_high,1003404
+2024-08-17 18:36,tandem_cgm_high,1003404
+2024-08-17 16:56,tandem_cgm_high,1003404
+2024-08-17 16:53,tandem_controliq_high,1003404
+2024-08-17 14:23,tandem_controliq_high,1003404
+2024-08-17 14:21,tandem_cgm_high,1003404
+2024-08-17 11:21,tandem_cgm_out_of_range,1003404
+2024-08-17 09:36,tandem_cgm_out_of_range,1003404
+2024-08-17 01:55,tandem_controliq_high,1003404
+2024-08-17 00:54,Low Power Alert (2T),1003404
+2024-08-17 00:16,tandem_cgm_out_of_range,1003404
+2024-08-16 23:38,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-16 22:59,tandem_controliq_high,1003404
+2024-08-16 22:51,Cartridge Loaded,1003404
+2024-08-16 22:39,Empty Cartridge Alarm (8A),1003404
+2024-08-16 22:09,tandem_controliq_high,1003404
+2024-08-16 21:31,tandem_cgm_high,1003404
+2024-08-16 21:14,tandem_controliq_high,1003404
+2024-08-16 21:04,tandem_controliq_high,1003404
+2024-08-16 20:12,tandem_cgm_out_of_range,1003404
+2024-08-16 18:37,tandem_cgm_out_of_range,1003404
+2024-08-16 10:26,tandem_cgm_out_of_range,1003404
+2024-08-16 09:59,tandem_controliq_high,1003404
+2024-08-16 09:44,tandem_controliq_high,1003404
+2024-08-15 17:13,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-08-15 16:59,tandem_controliq_low,1003404
+2024-08-15 13:33,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-15 13:11,tandem_controliq_high,1003404
+2024-08-15 13:06,tandem_cgm_high,1003404
+2024-08-15 10:51,tandem_cgm_out_of_range,1003404
+2024-08-15 08:11,tandem_cgm_out_of_range,1003404
+2024-08-14 17:56,tandem_cgm_out_of_range,1003404
+2024-08-14 07:51,tandem_cgm_out_of_range,1003404
+2024-08-14 01:31,tandem_cgm_out_of_range,1003404
+2024-08-13 21:12,tandem_cgm_out_of_range,1003404
+2024-08-13 18:54,Cartridge Loaded,1003404
+2024-08-13 18:03,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-13 17:52,tandem_controliq_high,1003404
+2024-08-13 17:46,tandem_cgm_high,1003404
+2024-08-13 17:04,Resume Pump Alarm (18A),1003404
+2024-08-13 16:47,tandem_cgm_out_of_range,1003404
+2024-08-13 12:53,tandem_controliq_high,1003404
+2024-08-13 12:11,tandem_cgm_high,1003404
+2024-08-13 11:50,tandem_controliq_high,1003404
+2024-08-13 10:56,tandem_cgm_high,1003404
+2024-08-13 10:55,tandem_controliq_high,1003404
+2024-08-12 22:03,tandem_controliq_low,1003404
+2024-08-12 18:11,tandem_cgm_out_of_range,1003404
+2024-08-12 14:25,tandem_controliq_high,1003404
+2024-08-12 14:13,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-12 14:11,tandem_cgm_out_of_range,1003404
+2024-08-12 13:43,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-12 13:40,tandem_controliq_high,1003404
+2024-08-12 13:31,tandem_cgm_out_of_range,1003404
+2024-08-12 13:13,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-12 12:50,tandem_controliq_high,1003404
+2024-08-12 12:46,tandem_cgm_high,1003404
+2024-08-12 11:31,tandem_cgm_out_of_range,1003404
+2024-08-12 11:24,Low Power Alert (2T),1003404
+2024-08-11 18:26,tandem_cgm_out_of_range,1003404
+2024-08-11 13:28,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-11 13:18,tandem_controliq_high,1003404
+2024-08-11 13:01,tandem_cgm_high,1003404
+2024-08-11 11:01,tandem_cgm_high,1003404
+2024-08-11 09:01,tandem_cgm_out_of_range,1003404
+2024-08-11 07:39,Cartridge Loaded,1003404
+2024-08-11 07:21,Empty Cartridge Alarm (8A),1003404
+2024-08-11 05:23,tandem_controliq_high,1003404
+2024-08-11 05:21,tandem_cgm_high,1003404
+2024-08-11 04:18,tandem_controliq_high,1003404
+2024-08-11 03:08,tandem_controliq_high,1003404
+2024-08-11 01:33,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-11 00:43,tandem_controliq_high,1003404
+2024-08-11 00:08,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-10 23:48,tandem_controliq_high,1003404
+2024-08-10 23:11,tandem_cgm_high,1003404
+2024-08-10 23:08,tandem_controliq_high,1003404
+2024-08-10 22:33,dexcom_low_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-10 22:23,tandem_controliq_low,1003404
+2024-08-10 21:53,tandem_controliq_low,1003404
+2024-08-10 19:08,tandem_controliq_high,1003404
+2024-08-10 17:26,tandem_cgm_out_of_range,1003404
+2024-08-10 16:12,tandem_controliq_high,1003404
+2024-08-10 16:08,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-10 15:38,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-10 15:32,tandem_controliq_high,1003404
+2024-08-10 15:23,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-10 15:12,tandem_controliq_high,1003404
+2024-08-10 15:08,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-10 14:18,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-10 13:41,tandem_cgm_high,1003404
+2024-08-10 13:11,tandem_cgm_high,1003404
+2024-08-10 13:06,tandem_controliq_high,1003404
+2024-08-10 10:41,tandem_cgm_out_of_range,1003404
+2024-08-10 09:46,tandem_cgm_out_of_range,1003404
+2024-08-09 23:38,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-09 23:11,tandem_cgm_high,1003404
+2024-08-09 23:03,tandem_controliq_high,1003404
+2024-08-09 21:25,Occlusion Alarm (2A),1003404
+2024-08-09 17:03,tandem_controliq_high,1003404
+2024-08-09 16:56,tandem_cgm_high,1003404
+2024-08-09 16:33,tandem_controliq_high,1003404
+2024-08-09 16:26,tandem_cgm_high,1003404
+2024-08-09 07:26,tandem_cgm_high,1003404
+2024-08-09 07:13,tandem_controliq_high,1003404
+2024-08-09 01:31,tandem_cgm_out_of_range,1003404
+2024-08-08 18:59,Cartridge Loaded,1003404
+2024-08-08 17:18,dexcom_urgent_low_soon,Dexcom g6 (5dc2b02)
+2024-08-08 17:16,tandem_cgm_low_2,1003404
+2024-08-08 17:15,tandem_controliq_low,1003404
+2024-08-08 16:30,tandem_controliq_low,1003404
+2024-08-08 14:30,tandem_controliq_high,1003404
+2024-08-08 13:30,tandem_controliq_high,1003404
+2024-08-08 13:00,tandem_controliq_high,1003404
+2024-08-08 12:51,tandem_cgm_high,1003404
+2024-08-08 12:48,tandem_cgm_sensor_expiring,1003404
+2024-08-08 12:31,tandem_cgm_high,1003404
+2024-08-08 12:22,tandem_cgm_out_of_range,1003404
+2024-08-08 11:32,tandem_cgm_out_of_range,1003404
+2024-08-08 11:00,tandem_controliq_high,1003404
+2024-08-08 09:08,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-08 08:31,tandem_cgm_high,1003404
+2024-08-08 08:22,tandem_controliq_high,1003404
+2024-08-07 22:01,tandem_cgm_high,1003404
+2024-08-07 17:26,tandem_cgm_out_of_range,1003404
+2024-08-07 15:48,tandem_controliq_high,1003404
+2024-08-06 23:18,tandem_controliq_high,1003404
+2024-08-06 22:56,tandem_cgm_high,1003404
+2024-08-06 21:31,tandem_cgm_high,1003404
+2024-08-06 21:13,tandem_controliq_high,1003404
+2024-08-06 19:08,tandem_controliq_high,1003404
+2024-08-06 18:52,tandem_cgm_out_of_range,1003404
+2024-08-06 18:51,tandem_low_transmitter_battery_2,1003404
+2024-08-06 18:13,tandem_controliq_high,1003404
+2024-08-06 18:11,tandem_cgm_high,1003404
+2024-08-06 17:12,tandem_cgm_out_of_range,1003404
+2024-08-06 16:23,tandem_controliq_low,1003404
+2024-08-06 13:08,tandem_controliq_low,1003404
+2024-08-06 12:19,Cartridge Loaded,1003404
+2024-08-05 20:33,dexcom_high_glucose_alert,Dexcom g6 (5dc2b02)
+2024-08-05 20:01,tandem_cgm_high,1003404
+2024-08-05 19:53,tandem_controliq_high,1003404
+2024-08-05 19:27,tandem_cgm_out_of_range,1003404
+2024-08-05 16:18,tandem_controliq_high,1003404
+2024-08-05 16:16,tandem_cgm_high,1003404
+2024-08-05 12:48,tandem_controliq_low,1003404
+2024-08-05 01:43,tandem_controliq_high,1003404
+2024-08-05 01:41,tandem_cgm_high,1003404
+2024-08-05 01:04,Low Power Alert (2T),1003404
+2024-08-05 00:13,tandem_controliq_high,1003404
+2024-08-04 23:18,tandem_controliq_high,1003404
+2024-08-04 20:38,tandem_controliq_high,1003404
+2024-08-04 17:46,tandem_cgm_high,1003404
+2024-08-04 17:14,tandem_controliq_high,1003404
+2024-08-04 15:21,tandem_cgm_high,1003404
+2024-08-04 14:54,tandem_controliq_high,1003404
+2024-08-04 14:51,tandem_cgm_high,1003404
+2024-08-04 13:34,tandem_controliq_high,1003404
+2024-08-04 13:31,tandem_cgm_high,1003404
+2024-08-04 13:04,tandem_controliq_high,1003404
+2024-08-04 05:48,Cartridge Loaded,1003404
+2024-08-04 05:27,Empty Cartridge Alarm (8A),1003404
+2024-08-04 03:13,tandem_controliq_high,1003404
+2024-08-04 01:43,tandem_controliq_high,1003404
+2024-08-04 00:48,tandem_controliq_high,1003404
+2024-08-03 23:23,tandem_controliq_high,1003404
+2024-08-03 23:12,tandem_cgm_out_of_range,1003404
+2024-08-03 22:43,tandem_controliq_high,1003404
+2024-08-03 22:16,tandem_cgm_out_of_range,1003404
+2024-08-03 21:46,tandem_cgm_high,1003404
+2024-08-03 20:47,tandem_cgm_out_of_range,1003404
+2024-08-03 17:32,tandem_cgm_out_of_range,1003404
+2024-08-03 14:37,tandem_cgm_out_of_range,1003404
+2024-08-03 13:56,tandem_cgm_low_2,1003404
+2024-08-03 13:33,tandem_controliq_low,1003404
+2024-08-03 10:13,tandem_controliq_high,1003404
+2024-08-03 10:06,tandem_cgm_high,1003404
+2024-08-02 22:41,tandem_controliq_high,1003404
+2024-08-02 21:52,tandem_cgm_out_of_range,1003404
+2024-08-02 21:26,tandem_controliq_high,1003404
+2024-08-02 21:12,tandem_cgm_out_of_range,1003404
+2024-08-02 20:26,tandem_controliq_high,1003404
+2024-08-02 19:11,tandem_cgm_high,1003404
+2024-08-02 19:11,tandem_controliq_high,1003404
+2024-08-02 15:51,tandem_controliq_low,1003404
+2024-08-02 11:31,tandem_controliq_high,1003404
+2024-08-02 09:12,tandem_controliq_high,1003404
+2024-08-02 09:01,tandem_cgm_high,1003404
+2024-08-02 01:17,tandem_cgm_out_of_range,1003404
+2024-08-01 23:01,tandem_cgm_low_2,1003404
+2024-08-01 22:56,tandem_cgm_low,1003404
+2024-08-01 22:52,tandem_controliq_low,1003404
+2024-08-01 22:51,tandem_cgm_low_2,1003404
+2024-08-01 20:47,tandem_controliq_low,1003404
+2024-08-01 19:49,Low Power Alert (2T),1003404
+2024-08-01 18:56,tandem_cgm_low_2,1003404
+2024-08-01 18:47,tandem_controliq_low,1003404
+2024-08-01 18:07,tandem_controliq_low,1003404
+2024-08-01 16:57,tandem_controliq_low,1003404
+2024-08-01 16:02,tandem_cgm_out_of_range,1003404
+2024-08-01 14:51,tandem_cgm_low_2,1003404
+2024-08-01 14:37,tandem_controliq_low,1003404
+2024-08-01 13:57,tandem_controliq_low,1003404
+2024-08-01 12:01,tandem_controliq_high,1003404
+2024-08-01 10:51,tandem_cgm_high,1003404
+2024-08-01 10:47,Cartridge Loaded,1003404
+2024-08-01 09:56,tandem_cgm_high,1003404
+2024-08-01 09:51,tandem_controliq_high,1003404
+2024-08-01 06:56,tandem_controliq_high,1003404
+2024-08-01 06:51,tandem_cgm_high,1003404
+2024-08-01 04:30,Occlusion Alarm (2A),1003404
+2024-08-01 03:10,Occlusion Alarm (2A),1003404
+2024-08-01 02:06,tandem_cgm_high,1003404
+2024-08-01 01:56,tandem_controliq_high,1003404
+2024-07-31 20:36,tandem_cgm_low_2,1003404
+2024-07-31 20:11,tandem_controliq_low,1003404
+2024-07-31 15:58,tandem_controliq_high,1003404
+2024-07-31 15:56,tandem_cgm_high,1003404
+2024-07-31 15:42,tandem_cgm_out_of_range,1003404
+2024-07-31 14:41,tandem_cgm_low_2,1003404
+2024-07-31 14:23,tandem_controliq_low,1003404
+2024-07-31 03:03,tandem_controliq_low,1003404
+2024-07-31 00:12,tandem_cgm_unavailable,1003404
+2024-07-30 23:48,tandem_controliq_low,1003404
+2024-07-30 22:41,tandem_cgm_high,1003404
+2024-07-30 22:32,tandem_cgm_unavailable,1003404
+2024-07-30 22:08,tandem_controliq_low,1003404
+2024-07-30 18:51,tandem_low_transmitter_battery,1003404
+2024-07-30 17:53,tandem_controliq_high,1003404
+2024-07-30 17:36,tandem_cgm_high,1003404
+2024-07-30 13:33,tandem_controliq_low,1003404
+2024-07-30 10:13,tandem_controliq_low,1003404
+2024-07-30 04:37,tandem_cgm_out_of_range,1003404
+2024-07-30 00:50,tandem_controliq_high,1003404
+2024-07-30 00:15,tandem_controliq_low,1003404
+2024-07-30 00:11,tandem_cgm_low_2,1003404
+2024-07-29 23:20,tandem_controliq_low,1003404
+2024-07-29 22:30,tandem_controliq_high,1003404
+2024-07-29 22:16,tandem_cgm_high,1003404
+2024-07-29 22:00,tandem_controliq_high,1003404
+2024-07-29 21:51,tandem_cgm_high,1003404
+2024-07-29 21:15,tandem_controliq_high,1003404
+2024-07-29 20:51,tandem_cgm_high,1003404
+2024-07-29 19:01,Cartridge Loaded,1003404
+2024-07-29 18:21,tandem_cgm_replace_sensor,1003404
+2024-07-29 16:35,tandem_controliq_low,1003404
+2024-07-29 16:18,tandem_cgm_sensor_expiring,1003404
+2024-07-29 14:41,tandem_cgm_out_of_range,1003404
+2024-07-29 12:18,tandem_cgm_sensor_expiring,1003404
+2024-07-29 11:45,Low Power Alert (2T),1003404
+2024-07-29 09:02,tandem_cgm_out_of_range,1003404
+2024-07-29 05:35,tandem_controliq_high,1003404
+2024-07-28 19:40,tandem_controliq_high,1003404
+2024-07-28 16:27,tandem_cgm_out_of_range,1003404
+2024-07-28 15:41,tandem_cgm_out_of_range,1003404
+2024-07-27 14:25,tandem_controliq_high,1003404
+2024-07-27 14:06,tandem_cgm_high,1003404
+2024-07-27 03:11,tandem_cgm_out_of_range,1003404
+2024-07-27 00:37,Cartridge Loaded,1003404
+2024-07-26 23:26,tandem_cgm_high,1003404
+2024-07-26 21:50,tandem_controliq_high,1003404
+2024-07-26 21:36,tandem_cgm_high,1003404
+2024-07-26 16:31,tandem_cgm_high,1003404
+2024-07-26 16:25,tandem_controliq_high,1003404
+2024-07-26 14:10,tandem_controliq_high,1003404
+2024-07-26 13:56,tandem_cgm_high,1003404
+2024-07-26 13:35,tandem_controliq_high,1003404
+2024-07-26 13:16,tandem_cgm_high,1003404
+2024-07-26 12:01,tandem_cgm_high,1003404
+2024-07-26 11:20,tandem_controliq_high,1003404
+2024-07-26 11:16,tandem_cgm_high,1003404
+2024-07-26 09:05,tandem_controliq_low,1003404
+2024-07-26 08:40,tandem_controliq_low,1003404
+2024-07-26 08:07,tandem_cgm_out_of_range,1003404
+2024-07-25 21:26,tandem_cgm_out_of_range,1003404
+2024-07-25 20:46,tandem_cgm_out_of_range,1003404
+2024-07-25 19:06,tandem_cgm_out_of_range,1003404
+2024-07-25 18:11,tandem_controliq_low,1003404
+2024-07-25 17:46,tandem_controliq_low,1003404
+2024-07-25 17:01,tandem_controliq_high,1003404
+2024-07-25 01:57,tandem_cgm_out_of_range,1003404
+2024-07-24 22:52,tandem_cgm_out_of_range,1003404
+2024-07-24 22:41,tandem_controliq_high,1003404
+2024-07-24 22:01,tandem_cgm_high,1003404
+2024-07-24 21:27,tandem_cgm_out_of_range,1003404
+2024-07-24 20:21,tandem_controliq_high,1003404
+2024-07-24 11:56,tandem_controliq_low,1003404
+2024-07-24 04:57,tandem_cgm_out_of_range,1003404
+2024-07-24 01:37,tandem_cgm_out_of_range,1003404
+2024-07-24 00:37,tandem_cgm_out_of_range,1003404
+2024-07-23 23:26,tandem_controliq_high,1003404
+2024-07-23 22:36,tandem_cgm_high,1003404
+2024-07-23 22:11,tandem_cgm_high,1003404
+2024-07-23 21:51,tandem_cgm_high,1003404
+2024-07-23 21:17,Cartridge Loaded,1003404
+2024-07-23 20:57,tandem_controliq_high,1003404
+2024-07-23 20:32,tandem_controliq_high,1003404
+2024-07-23 18:41,Low Power Alert (2T),1003404
+2024-07-23 17:28,tandem_controliq_low,1003404
+2024-07-23 14:23,tandem_controliq_high,1003404
+2024-07-23 14:21,tandem_cgm_high,1003404
+2024-07-23 11:28,tandem_controliq_low,1003404
+2024-07-23 04:01,tandem_cgm_high,1003404
+2024-07-23 03:41,tandem_cgm_high,1003404
+2024-07-23 03:38,tandem_controliq_high,1003404
+2024-07-23 02:43,tandem_controliq_high,1003404
+2024-07-23 02:13,tandem_controliq_high,1003404
+2024-07-23 02:11,tandem_cgm_high,1003404
+2024-07-23 01:28,tandem_controliq_high,1003404
+2024-07-23 01:07,tandem_cgm_out_of_range,1003404
+2024-07-23 00:28,tandem_controliq_high,1003404
+2024-07-23 00:16,tandem_cgm_high,1003404
+2024-07-22 23:18,tandem_controliq_high,1003404
+2024-07-22 22:18,tandem_controliq_high,1003404
+2024-07-22 21:16,tandem_cgm_high,1003404
+2024-07-22 18:53,tandem_controliq_high,1003404
+2024-07-22 18:26,tandem_cgm_high,1003404
+2024-07-22 16:51,tandem_cgm_high,1003404
+2024-07-22 16:48,tandem_controliq_high,1003404
+2024-07-22 15:38,tandem_controliq_low,1003404
+2024-07-22 14:28,tandem_controliq_low,1003404
+2024-07-22 12:26,tandem_cgm_high,1003404
+2024-07-22 12:18,tandem_controliq_high,1003404
+2024-07-22 01:36,tandem_cgm_out_of_range,1003404
+2024-07-21 23:53,tandem_controliq_high,1003404
+2024-07-21 21:33,tandem_controliq_high,1003404
+2024-07-21 20:59,Cartridge Loaded,1003404
+2024-07-21 20:51,Empty Cartridge Alarm (8A),1003404
+2024-07-21 18:53,tandem_controliq_high,1003404
+2024-07-21 18:13,tandem_controliq_high,1003404
+2024-07-21 16:11,tandem_cgm_high,1003404
+2024-07-21 16:05,tandem_controliq_high,1003404
+2024-07-21 13:57,tandem_cgm_out_of_range,1003404
+2024-07-21 13:07,tandem_cgm_out_of_range,1003404
+2024-07-21 01:12,tandem_cgm_out_of_range,1003404
+2024-07-20 19:37,tandem_cgm_out_of_range,1003404
+2024-07-20 14:45,tandem_controliq_low,1003404
+2024-07-20 13:26,tandem_cgm_out_of_range,1003404
+2024-07-20 09:02,Low Power Alert (2T),1003404
+2024-07-20 08:16,tandem_cgm_high,1003404
+2024-07-20 08:01,tandem_cgm_out_of_range,1003404
+2024-07-20 07:58,Occlusion Alarm (2A),1003404
+2024-07-20 07:01,tandem_cgm_out_of_range,1003404
+2024-07-20 05:12,Occlusion Alarm (2A),1003404
+2024-07-20 00:49,tandem_controliq_high,1003404
+2024-07-20 00:37,Occlusion Alarm (2A),1003404
+2024-07-20 00:24,tandem_controliq_high,1003404
+2024-07-19 23:06,Occlusion Alarm (2A),1003404
+2024-07-19 20:54,tandem_controliq_high,1003404
+2024-07-19 20:26,tandem_cgm_high,1003404
+2024-07-19 20:21,Occlusion Alarm (2A),1003404
+2024-07-19 17:06,tandem_cgm_high,1003404
+2024-07-19 16:49,tandem_controliq_high,1003404
+2024-07-19 14:31,tandem_cgm_high,1003404
+2024-07-19 12:48,tandem_cgm_sensor_expiring,1003404
+2024-07-19 12:34,tandem_controliq_high,1003404
+2024-07-19 12:16,tandem_cgm_high,1003404
+2024-07-19 11:39,tandem_controliq_low,1003404
+2024-07-19 07:01,Cartridge Loaded,1003404
+2024-07-18 23:51,tandem_cgm_out_of_range,1003404
+2024-07-18 22:26,tandem_cgm_out_of_range,1003404
+2024-07-18 14:41,tandem_cgm_out_of_range,1003404
+2024-07-18 10:50,tandem_controliq_high,1003404
+2024-07-18 10:46,tandem_cgm_out_of_range,1003404
+2024-07-18 10:46,tandem_cgm_high,1003404
+2024-07-18 07:01,Low Power Alert (2T),1003404
+2024-07-18 02:46,tandem_cgm_out_of_range,1003404
+2024-07-18 01:31,tandem_cgm_out_of_range,1003404
+2024-07-17 23:31,tandem_cgm_out_of_range,1003404
+2024-07-17 17:47,tandem_cgm_out_of_range,1003404
+2024-07-17 13:21,tandem_cgm_high,1003404
+2024-07-17 12:56,tandem_cgm_out_of_range,1003404
+2024-07-16 20:42,tandem_cgm_out_of_range,1003404
+2024-07-16 18:41,Cartridge Loaded,1003404
+2024-07-16 18:34,Empty Cartridge Alarm (8A),1003404
+2024-07-16 14:42,tandem_cgm_out_of_range,1003404
+2024-07-16 04:35,tandem_controliq_high,1003404
+2024-07-16 03:20,tandem_controliq_high,1003404
+2024-07-16 03:16,tandem_cgm_high,1003404
+2024-07-16 02:10,tandem_controliq_low,1003404
+2024-07-15 23:42,tandem_cgm_out_of_range,1003404
+2024-07-15 22:41,tandem_cgm_high,1003404
+2024-07-15 22:20,tandem_controliq_high,1003404
+2024-07-15 20:56,tandem_cgm_high,1003404
+2024-07-15 20:36,tandem_cgm_high,1003404
+2024-07-15 19:31,tandem_cgm_out_of_range,1003404
+2024-07-15 15:17,tandem_cgm_out_of_range,1003404
+2024-07-15 14:26,tandem_cgm_high,1003404
+2024-07-15 14:25,tandem_controliq_high,1003404
+2024-07-15 12:40,tandem_controliq_high,1003404
+2024-07-15 12:36,tandem_cgm_high,1003404
+2024-07-15 04:47,tandem_cgm_out_of_range,1003404
+2024-07-15 01:06,tandem_cgm_out_of_range,1003404
+2024-07-14 20:17,tandem_cgm_out_of_range,1003404
+2024-07-14 17:41,tandem_cgm_out_of_range,1003404
+2024-07-14 17:11,tandem_cgm_low_2,1003404
+2024-07-14 16:50,tandem_controliq_low,1003404
+2024-07-14 13:44,tandem_controliq_high,1003404
+2024-07-14 13:09,tandem_controliq_high,1003404
+2024-07-14 12:29,tandem_controliq_high,1003404
+2024-07-14 12:04,tandem_controliq_high,1003404
+2024-07-14 11:31,tandem_cgm_out_of_range,1003404
+2024-07-14 10:04,tandem_controliq_high,1003404
+2024-07-14 09:26,tandem_cgm_high,1003404
+2024-07-14 02:52,tandem_controliq_high,1003404
+2024-07-14 02:13,Cartridge Loaded,1003404
+2024-07-14 01:06,tandem_cgm_out_of_range,1003404
+2024-07-14 00:09,tandem_controliq_high,1003404
+2024-07-13 21:56,tandem_cgm_high,1003404
+2024-07-13 20:31,tandem_cgm_out_of_range,1003404
+2024-07-13 15:32,tandem_cgm_out_of_range,1003404
+2024-07-13 13:26,tandem_cgm_out_of_range,1003404
+2024-07-13 05:37,tandem_cgm_out_of_range,1003404
+2024-07-13 04:46,tandem_cgm_high,1003404
+2024-07-13 04:22,tandem_cgm_out_of_range,1003404
+2024-07-13 02:46,tandem_cgm_high,1003404
+2024-07-13 02:21,tandem_cgm_high,1003404
+2024-07-13 01:46,tandem_cgm_high,1003404
+2024-07-13 01:35,tandem_controliq_high,1003404
+2024-07-12 21:10,tandem_controliq_low,1003404
+2024-07-12 11:37,tandem_cgm_out_of_range,1003404
+2024-07-12 09:58,tandem_controliq_low,1003404
+2024-07-12 04:01,tandem_cgm_out_of_range,1003404
+2024-07-12 02:31,tandem_cgm_out_of_range,1003404
+2024-07-12 00:37,tandem_cgm_out_of_range,1003404
+2024-07-11 21:56,tandem_controliq_low,1003404
+2024-07-11 21:52,tandem_cgm_out_of_range,1003404
+2024-07-11 21:11,tandem_cgm_out_of_range,1003404
+2024-07-11 19:36,tandem_controliq_high,1003404
+2024-07-11 18:41,tandem_controliq_high,1003404
+2024-07-11 18:41,tandem_cgm_high,1003404
+2024-07-11 15:32,tandem_cgm_out_of_range,1003404
+2024-07-11 13:53,tandem_controliq_low,1003404
+2024-07-11 13:53,Cartridge Loaded,1003404
+2024-07-11 13:44,tandem_controliq_low,1003404
+2024-07-11 10:26,tandem_cgm_out_of_range,1003404
+2024-07-11 04:22,tandem_cgm_out_of_range,1003404
+2024-07-11 00:26,tandem_cgm_out_of_range,1003404
+2024-07-10 23:22,tandem_cgm_out_of_range,1003404
+2024-07-10 20:25,tandem_controliq_high,1003404
+2024-07-10 19:40,tandem_controliq_high,1003404
+2024-07-10 18:56,tandem_cgm_high,1003404
+2024-07-10 16:14,Low Power Alert (2T),1003404
+2024-07-10 15:36,tandem_cgm_low_2,1003404
+2024-07-10 15:31,tandem_controliq_low,1003404
+2024-07-10 15:01,tandem_controliq_low,1003404
+2024-07-10 14:16,tandem_controliq_low,1003404
+2024-07-10 13:42,tandem_cgm_out_of_range,1003404
+2024-07-10 12:56,tandem_cgm_low_2,1003404
+2024-07-10 12:36,tandem_cgm_low,1003404
+2024-07-10 12:31,tandem_controliq_low,1003404
+2024-07-10 12:11,tandem_cgm_out_of_range,1003404
+2024-07-10 06:36,tandem_controliq_low,1003404
+2024-07-10 04:46,tandem_cgm_low,1003404
+2024-07-10 04:41,tandem_cgm_low_2,1003404
+2024-07-10 04:26,tandem_controliq_low,1003404
+2024-07-10 03:02,tandem_cgm_out_of_range,1003404
+2024-07-10 01:26,tandem_cgm_out_of_range,1003404
+2024-07-10 00:11,tandem_controliq_low,1003404
+2024-07-09 20:56,tandem_controliq_low,1003404
+2024-07-09 20:51,tandem_cgm_low,1003404
+2024-07-09 14:17,tandem_cgm_sensor_expiring,1003404
+2024-07-09 12:42,tandem_cgm_out_of_range,1003404
+2024-07-09 04:56,tandem_cgm_out_of_range,1003404
+2024-07-08 07:19,Cartridge Loaded,1003404
+2024-07-07 17:06,tandem_cgm_out_of_range,1003404
+2024-07-07 15:41,tandem_cgm_high,1003404
+2024-07-07 15:31,tandem_cgm_out_of_range,1003404
+2024-07-06 23:17,tandem_cgm_out_of_range,1003404
+2024-07-06 21:36,tandem_controliq_high,1003404
+2024-07-06 21:06,tandem_cgm_high,1003404
+2024-07-06 20:51,tandem_cgm_out_of_range,1003404
+2024-07-06 19:51,tandem_cgm_high,1003404
+2024-07-06 16:31,tandem_cgm_high,1003404
+2024-07-06 15:57,tandem_cgm_out_of_range,1003404
+2024-07-06 08:58,Low Power Alert (2T),1003404
+2024-07-06 01:42,Low Power Alert (2T),1003404
+2024-07-06 01:21,tandem_cgm_high,1003404
+2024-07-06 01:17,tandem_cgm_unavailable,1003404
+2024-07-06 00:41,tandem_controliq_high,1003404
+2024-07-06 00:41,tandem_cgm_high,1003404
+2024-07-05 21:31,tandem_cgm_high,1003404
+2024-07-05 21:31,tandem_controliq_high,1003404
+2024-07-05 19:27,Cartridge Loaded,1003404
+2024-07-05 19:15,Empty Cartridge Alarm (8A),1003404
+2024-07-05 10:07,tandem_cgm_out_of_range,1003404
+2024-06-26 17:53,tandem_controliq_low,1003404
+2024-06-26 17:26,tandem_cgm_out_of_range,1003404
+2024-06-26 14:49,Cartridge Loaded,1003404
+2024-06-26 14:37,Empty Cartridge Alarm (8A),1003404
+2024-06-26 14:04,tandem_controliq_low,1003404
+2024-06-25 21:41,tandem_cgm_high,1003404
+2024-06-25 20:51,tandem_cgm_high,1003404
+2024-06-25 19:56,tandem_cgm_high,1003404
+2024-06-25 18:54,tandem_controliq_low,1003404
+2024-06-25 16:09,tandem_controliq_low,1003404
+2024-06-25 12:54,tandem_controliq_low,1003404
+2024-06-25 01:51,tandem_cgm_high,1003404

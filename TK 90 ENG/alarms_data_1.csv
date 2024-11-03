@@ -1,0 +1,469 @@
+Name:,Date range:01/05/2024 - 29/07/2024
+Timestamp,Alarm/Event,Serial number
+02/07/2024 12:47,tandem_controliq_high,931756
+02/07/2024 05:54,tandem_controliq_high,931756
+01/07/2024 20:17,tandem_controliq_high,931756
+01/07/2024 01:35,tandem_controliq_high,931756
+30/06/2024 16:22,tandem_controliq_high,931756
+30/06/2024 15:53,Cartridge Loaded,931756
+30/06/2024 15:50,Empty Cartridge Alarm (8A),931756
+30/06/2024 15:23,tandem_controliq_high,931756
+30/06/2024 05:39,tandem_controliq_high,931756
+30/06/2024 04:19,tandem_controliq_high,931756
+30/06/2024 03:29,tandem_controliq_high,931756
+30/06/2024 03:04,tandem_controliq_high,931756
+30/06/2024 02:39,tandem_controliq_high,931756
+30/06/2024 01:19,tandem_controliq_high,931756
+29/06/2024 08:47,tandem_controliq_low,931756
+29/06/2024 08:22,tandem_controliq_low,931756
+29/06/2024 03:16,tandem_controliq_high,931756
+28/06/2024 17:14,tandem_controliq_high,931756
+28/06/2024 16:59,tandem_controliq_high,931756
+28/06/2024 16:09,tandem_controliq_high,931756
+28/06/2024 12:39,tandem_controliq_low,931756
+28/06/2024 09:28,tandem_controliq_high,931756
+28/06/2024 00:12,Cartridge Loaded,931756
+27/06/2024 17:16,tandem_controliq_high,931756
+27/06/2024 16:10,tandem_controliq_high,931756
+27/06/2024 00:18,tandem_controliq_low,931756
+26/06/2024 23:01,tandem_controliq_high,931756
+26/06/2024 22:36,tandem_controliq_high,931756
+26/06/2024 20:26,tandem_controliq_high,931756
+26/06/2024 17:51,tandem_controliq_high,931756
+26/06/2024 17:11,tandem_controliq_high,931756
+25/06/2024 23:06,tandem_controliq_high,931756
+25/06/2024 15:20,tandem_controliq_high,931756
+25/06/2024 12:27,Low Power Alert (2T),931756
+25/06/2024 11:54,tandem_controliq_low,931756
+25/06/2024 11:44,tandem_controliq_low,931756
+25/06/2024 10:24,tandem_controliq_low,931756
+25/06/2024 08:39,tandem_controliq_low,931756
+25/06/2024 06:37,tandem_controliq_high,931756
+25/06/2024 02:22,tandem_controliq_high,931756
+24/06/2024 21:46,tandem_controliq_low,931756
+24/06/2024 15:22,Cartridge Loaded,931756
+24/06/2024 15:15,Empty Cartridge Alarm (8A),931756
+24/06/2024 00:08,tandem_controliq_high,931756
+23/06/2024 19:22,tandem_controliq_high,931756
+23/06/2024 02:29,tandem_controliq_high,931756
+22/06/2024 23:39,tandem_controliq_low,931756
+22/06/2024 21:19,tandem_controliq_high,931756
+22/06/2024 16:48,tandem_controliq_high,931756
+22/06/2024 16:23,tandem_controliq_high,931756
+22/06/2024 00:31,Cartridge Loaded,931756
+22/06/2024 00:16,tandem_controliq_high,931756
+21/06/2024 22:21,tandem_controliq_low,931756
+21/06/2024 18:51,tandem_controliq_high,931756
+21/06/2024 18:21,tandem_controliq_high,931756
+21/06/2024 18:01,tandem_controliq_high,931756
+21/06/2024 14:35,tandem_controliq_low,931756
+21/06/2024 14:25,tandem_controliq_low,931756
+21/06/2024 14:03,tandem_controliq_low,931756
+21/06/2024 09:03,tandem_controliq_low,931756
+21/06/2024 00:11,tandem_controliq_high,931756
+20/06/2024 13:30,tandem_controliq_high,931756
+20/06/2024 13:10,tandem_controliq_high,931756
+20/06/2024 11:50,tandem_controliq_low,931756
+20/06/2024 06:43,tandem_controliq_high,931756
+19/06/2024 20:11,tandem_controliq_low,931756
+19/06/2024 19:56,tandem_controliq_low,931756
+19/06/2024 15:50,Cartridge Loaded,931756
+19/06/2024 02:39,tandem_controliq_high,931756
+19/06/2024 00:58,tandem_controliq_high,931756
+18/06/2024 21:11,Resume Pump Alarm (18A),931756
+18/06/2024 19:02,tandem_controliq_low,931756
+18/06/2024 18:22,Resume Pump Alarm (18A),931756
+18/06/2024 17:17,Resume Pump Alarm (18A),931756
+18/06/2024 15:24,tandem_controliq_high,931756
+18/06/2024 11:29,tandem_controliq_low,931756
+18/06/2024 03:12,tandem_controliq_high,931756
+18/06/2024 02:11,tandem_controliq_low,931756
+17/06/2024 23:46,tandem_controliq_high,931756
+17/06/2024 18:46,tandem_controliq_high,931756
+17/06/2024 17:26,tandem_controliq_low,931756
+17/06/2024 03:05,tandem_controliq_low,931756
+17/06/2024 02:55,tandem_controliq_low,931756
+17/06/2024 02:40,tandem_controliq_low,931756
+17/06/2024 02:30,tandem_controliq_low,931756
+17/06/2024 01:56,Cartridge Loaded,931756
+16/06/2024 13:45,Empty Cartridge Alarm (8A),931756
+16/06/2024 04:22,Low Power Alert (2T),931756
+16/06/2024 00:43,tandem_controliq_high,931756
+15/06/2024 23:17,Resume Pump Alarm (18A),931756
+15/06/2024 18:17,Resume Pump Alarm (18A),931756
+15/06/2024 16:40,Resume Pump Alarm (18A),931756
+15/06/2024 15:38,Resume Pump Alarm (18A),931756
+14/06/2024 23:17,Resume Pump Alarm (18A),931756
+14/06/2024 21:14,tandem_controliq_high,931756
+14/06/2024 20:15,Resume Pump Alarm (18A),931756
+14/06/2024 18:45,Resume Pump Alarm (18A),931756
+14/06/2024 17:03,Resume Pump Alarm (18A),931756
+14/06/2024 15:51,tandem_controliq_high,931756
+14/06/2024 10:00,tandem_controliq_low,931756
+14/06/2024 09:25,tandem_controliq_low,931756
+14/06/2024 07:29,tandem_controliq_low,931756
+14/06/2024 03:48,tandem_controliq_high,931756
+14/06/2024 01:48,tandem_controliq_high,931756
+13/06/2024 23:13,tandem_controliq_high,931756
+13/06/2024 20:19,Cartridge Loaded,931756
+13/06/2024 05:11,tandem_controliq_high,931756
+13/06/2024 03:21,tandem_controliq_high,931756
+13/06/2024 01:06,tandem_controliq_low,931756
+13/06/2024 00:26,tandem_controliq_low,931756
+12/06/2024 16:19,tandem_controliq_high,931756
+12/06/2024 14:04,tandem_controliq_low,931756
+12/06/2024 13:34,tandem_controliq_low,931756
+12/06/2024 13:14,tandem_controliq_low,931756
+12/06/2024 10:23,tandem_controliq_high,931756
+12/06/2024 09:18,tandem_controliq_low,931756
+12/06/2024 08:43,tandem_controliq_low,931756
+11/06/2024 17:26,tandem_controliq_high,931756
+11/06/2024 07:04,tandem_controliq_low,931756
+11/06/2024 04:33,tandem_controliq_low,931756
+10/06/2024 22:33,tandem_controliq_low,931756
+10/06/2024 18:20,tandem_controliq_low,931756
+10/06/2024 18:16,Cartridge Loaded,931756
+10/06/2024 13:11,tandem_controliq_high,931756
+09/06/2024 23:22,tandem_controliq_high,931756
+09/06/2024 20:07,tandem_controliq_low,931756
+09/06/2024 19:47,tandem_controliq_low,931756
+09/06/2024 16:32,tandem_controliq_high,931756
+09/06/2024 15:22,tandem_controliq_low,931756
+09/06/2024 14:02,tandem_controliq_low,931756
+09/06/2024 10:16,tandem_controliq_low,931756
+09/06/2024 01:31,tandem_controliq_high,931756
+08/06/2024 21:35,tandem_controliq_high,931756
+08/06/2024 19:24,tandem_controliq_high,931756
+08/06/2024 16:49,tandem_controliq_high,931756
+08/06/2024 15:34,tandem_controliq_high,931756
+08/06/2024 01:23,tandem_controliq_high,931756
+08/06/2024 00:32,tandem_controliq_high,931756
+07/06/2024 23:47,tandem_controliq_high,931756
+07/06/2024 22:47,tandem_controliq_high,931756
+07/06/2024 20:36,tandem_controliq_high,931756
+07/06/2024 17:18,Cartridge Loaded,931756
+07/06/2024 14:57,tandem_controliq_low,931756
+06/06/2024 23:19,tandem_controliq_high,931756
+06/06/2024 13:45,tandem_controliq_low,931756
+06/06/2024 03:14,tandem_controliq_low,931756
+05/06/2024 23:28,tandem_controliq_low,931756
+05/06/2024 22:17,tandem_cgm_unavailable,931756
+05/06/2024 21:53,tandem_controliq_high,931756
+05/06/2024 20:09,Low Power Alert (2T),931756
+05/06/2024 15:56,tandem_controliq_low,931756
+05/06/2024 13:41,tandem_controliq_high,931756
+05/06/2024 12:41,tandem_controliq_high,931756
+04/06/2024 19:53,tandem_controliq_high,931756
+04/06/2024 19:39,Cartridge Loaded,931756
+04/06/2024 17:51,tandem_controliq_high,931756
+04/06/2024 14:22,tandem_controliq_low,931756
+03/06/2024 22:12,tandem_controliq_high,931756
+03/06/2024 19:59,tandem_controliq_high,931756
+03/06/2024 17:50,tandem_controliq_high,931756
+03/06/2024 17:05,tandem_controliq_high,931756
+03/06/2024 05:13,tandem_controliq_low,931756
+03/06/2024 03:13,tandem_controliq_low,931756
+02/06/2024 23:43,tandem_controliq_high,931756
+02/06/2024 21:22,tandem_controliq_high,931756
+02/06/2024 18:36,tandem_controliq_high,931756
+02/06/2024 16:06,tandem_controliq_high,931756
+02/06/2024 15:01,tandem_controliq_high,931756
+02/06/2024 13:20,Cartridge Loaded,931756
+02/06/2024 13:18,Low Power Alert (2T),931756
+02/06/2024 03:14,tandem_controliq_high,931756
+01/06/2024 17:39,tandem_controliq_high,931756
+01/06/2024 08:56,tandem_controliq_high,931756
+01/06/2024 04:45,tandem_controliq_high,931756
+01/06/2024 04:29,tandem_controliq_high,931756
+01/06/2024 03:49,tandem_controliq_high,931756
+01/06/2024 03:09,tandem_controliq_high,931756
+01/06/2024 01:59,tandem_controliq_high,931756
+31/05/2024 23:28,tandem_controliq_high,931756
+31/05/2024 19:13,tandem_controliq_high,931756
+31/05/2024 17:01,tandem_controliq_high,931756
+31/05/2024 00:44,tandem_controliq_high,931756
+30/05/2024 23:15,Cartridge Loaded,931756
+30/05/2024 22:30,tandem_controliq_high,931756
+30/05/2024 20:24,tandem_controliq_high,931756
+30/05/2024 17:22,tandem_controliq_high,931756
+29/05/2024 19:23,tandem_controliq_low,931756
+29/05/2024 15:17,tandem_controliq_high,931756
+29/05/2024 01:31,tandem_controliq_low,931756
+28/05/2024 20:50,tandem_controliq_low,931756
+28/05/2024 20:35,tandem_controliq_low,931756
+28/05/2024 18:50,tandem_controliq_low,931756
+28/05/2024 16:45,tandem_controliq_high,931756
+28/05/2024 12:38,tandem_controliq_low,931756
+28/05/2024 05:09,Resume Pump Alarm (18A),931756
+28/05/2024 04:53,Cartridge Loaded,931756
+28/05/2024 02:14,tandem_controliq_high,931756
+28/05/2024 01:29,tandem_controliq_high,931756
+27/05/2024 22:13,tandem_controliq_high,931756
+27/05/2024 21:28,tandem_controliq_high,931756
+27/05/2024 19:03,tandem_controliq_low,931756
+27/05/2024 17:03,tandem_controliq_high,931756
+27/05/2024 15:53,tandem_controliq_high,931756
+27/05/2024 12:31,tandem_controliq_high,931756
+27/05/2024 02:29,tandem_controliq_high,931756
+27/05/2024 01:49,tandem_controliq_high,931756
+27/05/2024 01:19,tandem_controliq_high,931756
+27/05/2024 00:23,tandem_controliq_high,931756
+26/05/2024 21:18,Cartridge Loaded,931756
+26/05/2024 20:16,tandem_controliq_high,931756
+26/05/2024 20:09,tandem_cgm_high,931756
+26/05/2024 17:51,tandem_controliq_high,931756
+26/05/2024 16:24,tandem_cgm_high,931756
+26/05/2024 07:05,Cartridge Loaded,931756
+26/05/2024 06:10,Empty Cartridge Alarm (8A),931756
+26/05/2024 06:09,tandem_controliq_high,931756
+26/05/2024 06:02,Resume Pump Alarm (18A),931756
+26/05/2024 05:09,tandem_cgm_high,931756
+26/05/2024 03:08,tandem_controliq_high,931756
+26/05/2024 02:43,tandem_controliq_high,931756
+26/05/2024 00:23,tandem_controliq_high,931756
+25/05/2024 23:54,tandem_cgm_high,931756
+25/05/2024 19:31,tandem_controliq_high,931756
+25/05/2024 19:29,tandem_cgm_high,931756
+25/05/2024 18:31,tandem_controliq_high,931756
+25/05/2024 18:29,tandem_cgm_high,931756
+25/05/2024 13:20,tandem_controliq_high,931756
+25/05/2024 12:33,Low Power Alert (2T),931756
+25/05/2024 11:19,tandem_cgm_high,931756
+25/05/2024 02:03,tandem_controliq_high,931756
+25/05/2024 00:58,tandem_controliq_high,931756
+25/05/2024 00:44,tandem_cgm_high,931756
+24/05/2024 22:36,tandem_controliq_high,931756
+24/05/2024 21:09,tandem_cgm_high,931756
+24/05/2024 20:44,tandem_cgm_high,931756
+24/05/2024 17:33,tandem_controliq_high,931756
+24/05/2024 16:58,tandem_controliq_high,931756
+24/05/2024 15:49,tandem_cgm_high,931756
+24/05/2024 13:48,tandem_controliq_low,931756
+24/05/2024 11:17,tandem_controliq_high,931756
+24/05/2024 10:17,tandem_controliq_high,931756
+24/05/2024 07:49,Cartridge Loaded,931756
+24/05/2024 06:11,tandem_controliq_high,931756
+24/05/2024 06:09,tandem_cgm_high,931756
+24/05/2024 04:47,Cartridge Loaded,931756
+24/05/2024 00:20,tandem_controliq_high,931756
+24/05/2024 00:04,tandem_cgm_high,931756
+23/05/2024 22:20,tandem_controliq_high,931756
+23/05/2024 22:19,tandem_cgm_high,931756
+23/05/2024 18:22,tandem_controliq_high,931756
+23/05/2024 18:04,tandem_cgm_high,931756
+23/05/2024 14:32,tandem_controliq_low,931756
+23/05/2024 13:02,tandem_controliq_low,931756
+23/05/2024 11:34,tandem_cgm_high,931756
+23/05/2024 10:29,tandem_cgm_high,931756
+23/05/2024 03:24,tandem_cgm_high,931756
+23/05/2024 02:40,tandem_controliq_high,931756
+23/05/2024 02:39,tandem_cgm_high,931756
+23/05/2024 01:45,tandem_controliq_high,931756
+23/05/2024 01:44,tandem_cgm_high,931756
+23/05/2024 01:34,tandem_cgm_high,931756
+22/05/2024 20:55,tandem_controliq_high,931756
+22/05/2024 18:35,tandem_controliq_high,931756
+22/05/2024 18:09,tandem_cgm_high,931756
+22/05/2024 17:04,tandem_cgm_high,931756
+22/05/2024 14:14,tandem_controliq_high,931756
+22/05/2024 12:39,tandem_cgm_high,931756
+22/05/2024 11:59,tandem_cgm_high,931756
+22/05/2024 09:59,tandem_cgm_high,931756
+22/05/2024 04:45,tandem_cgm_out_of_range,931756
+22/05/2024 00:12,tandem_controliq_high,931756
+21/05/2024 21:44,tandem_cgm_high,931756
+21/05/2024 21:38,Cartridge Loaded,931756
+21/05/2024 14:36,tandem_controliq_high,931756
+21/05/2024 14:34,tandem_cgm_high,931756
+20/05/2024 23:34,tandem_low_transmitter_battery_2,931756
+20/05/2024 19:24,tandem_cgm_high,931756
+20/05/2024 18:34,tandem_cgm_high,931756
+20/05/2024 18:24,tandem_cgm_high,931756
+20/05/2024 17:37,tandem_controliq_high,931756
+20/05/2024 17:09,tandem_cgm_high,931756
+20/05/2024 14:02,tandem_controliq_low,931756
+20/05/2024 12:32,tandem_controliq_high,931756
+20/05/2024 12:14,tandem_cgm_high,931756
+20/05/2024 10:24,tandem_cgm_high,931756
+19/05/2024 20:38,Low Power Alert (2T),931756
+19/05/2024 19:59,tandem_cgm_high,931756
+19/05/2024 15:34,tandem_cgm_low,931756
+19/05/2024 15:29,tandem_cgm_low_2,931756
+19/05/2024 15:06,tandem_controliq_low,931756
+19/05/2024 14:29,tandem_cgm_high,931756
+19/05/2024 13:44,tandem_cgm_low,931756
+19/05/2024 13:39,tandem_cgm_low_2,931756
+19/05/2024 13:10,tandem_controliq_low,931756
+19/05/2024 12:55,tandem_controliq_high,931756
+19/05/2024 12:44,tandem_cgm_high,931756
+19/05/2024 11:54,tandem_cgm_low,931756
+19/05/2024 11:45,tandem_controliq_low,931756
+19/05/2024 11:20,tandem_controliq_low,931756
+18/05/2024 21:59,tandem_cgm_high,931756
+18/05/2024 19:47,tandem_controliq_high,931756
+18/05/2024 19:34,tandem_cgm_high,931756
+18/05/2024 19:03,Cartridge Loaded,931756
+18/05/2024 17:33,tandem_controliq_low,931756
+18/05/2024 14:34,tandem_cgm_low_2,931756
+18/05/2024 14:11,tandem_controliq_low,931756
+18/05/2024 12:09,tandem_cgm_low_2,931756
+18/05/2024 11:49,tandem_cgm_low,931756
+18/05/2024 11:44,tandem_cgm_low_2,931756
+18/05/2024 11:36,tandem_controliq_low,931756
+18/05/2024 04:40,tandem_controliq_low,931756
+18/05/2024 03:59,tandem_cgm_low_2,931756
+18/05/2024 03:55,tandem_controliq_low,931756
+18/05/2024 03:10,tandem_controliq_low,931756
+18/05/2024 01:30,tandem_controliq_high,931756
+18/05/2024 01:29,tandem_cgm_high,931756
+17/05/2024 18:19,tandem_cgm_low_2,931756
+17/05/2024 18:10,tandem_controliq_low,931756
+17/05/2024 09:34,tandem_cgm_replace_sensor,931756
+17/05/2024 03:31,tandem_cgm_sensor_expiring,931756
+16/05/2024 09:04,tandem_cgm_high,931756
+16/05/2024 00:30,tandem_controliq_high,931756
+15/05/2024 22:15,tandem_controliq_high,931756
+15/05/2024 22:09,tandem_cgm_high,931756
+15/05/2024 19:50,tandem_cgm_out_of_range,931756
+15/05/2024 17:28,tandem_controliq_high,931756
+15/05/2024 17:14,tandem_cgm_high,931756
+15/05/2024 11:59,tandem_cgm_high,931756
+15/05/2024 11:44,Cartridge Loaded,931756
+15/05/2024 10:29,tandem_cgm_high,931756
+15/05/2024 03:40,tandem_controliq_high,931756
+15/05/2024 03:05,tandem_controliq_high,931756
+15/05/2024 02:15,tandem_controliq_high,931756
+15/05/2024 02:09,tandem_cgm_high,931756
+15/05/2024 01:49,tandem_cgm_high,931756
+14/05/2024 21:14,tandem_controliq_high,931756
+14/05/2024 21:09,tandem_cgm_high,931756
+14/05/2024 18:39,tandem_controliq_low,931756
+14/05/2024 18:04,tandem_controliq_low,931756
+14/05/2024 17:09,tandem_controliq_high,931756
+14/05/2024 16:49,tandem_cgm_high,931756
+14/05/2024 15:04,tandem_controliq_high,931756
+14/05/2024 14:49,tandem_cgm_high,931756
+14/05/2024 14:24,tandem_controliq_high,931756
+14/05/2024 14:19,tandem_cgm_high,931756
+14/05/2024 06:27,tandem_controliq_high,931756
+14/05/2024 06:19,tandem_cgm_high,931756
+13/05/2024 23:34,tandem_low_transmitter_battery,931756
+13/05/2024 22:11,tandem_controliq_high,931756
+13/05/2024 22:09,tandem_cgm_high,931756
+13/05/2024 20:54,tandem_cgm_low_2,931756
+13/05/2024 20:31,tandem_controliq_low,931756
+13/05/2024 19:29,tandem_cgm_low_2,931756
+13/05/2024 19:11,tandem_controliq_low,931756
+13/05/2024 17:34,tandem_controliq_high,931756
+13/05/2024 14:59,tandem_cgm_high,931756
+12/05/2024 22:57,tandem_controliq_high,931756
+12/05/2024 21:09,tandem_cgm_high,931756
+12/05/2024 20:24,tandem_cgm_low_2,931756
+12/05/2024 20:02,tandem_controliq_low,931756
+12/05/2024 16:54,tandem_cgm_high,931756
+12/05/2024 15:14,tandem_controliq_high,931756
+12/05/2024 14:49,tandem_controliq_high,931756
+12/05/2024 14:40,Cartridge Loaded,931756
+12/05/2024 13:29,tandem_cgm_high,931756
+12/05/2024 12:42,tandem_controliq_high,931756
+12/05/2024 12:39,tandem_cgm_high,931756
+12/05/2024 09:29,tandem_cgm_high,931756
+11/05/2024 20:47,tandem_controliq_high,931756
+11/05/2024 20:44,tandem_cgm_high,931756
+11/05/2024 16:01,tandem_controliq_high,931756
+11/05/2024 15:59,tandem_cgm_high,931756
+11/05/2024 12:59,tandem_cgm_high,931756
+11/05/2024 11:34,tandem_cgm_high,931756
+11/05/2024 03:14,tandem_controliq_high,931756
+11/05/2024 03:14,tandem_cgm_high,931756
+11/05/2024 02:24,tandem_controliq_high,931756
+11/05/2024 02:24,tandem_cgm_high,931756
+11/05/2024 00:16,Low Power Alert (2T),931756
+10/05/2024 18:54,tandem_controliq_high,931756
+10/05/2024 18:19,tandem_controliq_high,931756
+10/05/2024 18:14,tandem_cgm_high,931756
+10/05/2024 17:29,tandem_cgm_high,931756
+10/05/2024 15:59,tandem_cgm_high,931756
+10/05/2024 09:00,tandem_cgm_out_of_range,931756
+10/05/2024 05:25,tandem_controliq_high,931756
+10/05/2024 05:24,tandem_cgm_high,931756
+10/05/2024 04:09,tandem_cgm_low_2,931756
+10/05/2024 04:04,tandem_cgm_low,931756
+10/05/2024 03:59,tandem_cgm_low_2,931756
+10/05/2024 03:25,tandem_controliq_low,931756
+10/05/2024 00:06,Cartridge Loaded,931756
+10/05/2024 00:02,Empty Cartridge Alarm (8A),931756
+09/05/2024 23:44,tandem_cgm_high,931756
+09/05/2024 16:14,tandem_cgm_high,931756
+09/05/2024 11:04,tandem_cgm_high,931756
+09/05/2024 06:30,tandem_cgm_out_of_range,931756
+09/05/2024 05:05,tandem_cgm_out_of_range,931756
+09/05/2024 03:00,tandem_cgm_out_of_range,931756
+08/05/2024 23:40,tandem_controliq_high,931756
+08/05/2024 23:39,tandem_cgm_high,931756
+08/05/2024 16:55,tandem_controliq_high,931756
+08/05/2024 15:28,tandem_controliq_high,931756
+08/05/2024 14:04,tandem_cgm_high,931756
+08/05/2024 10:19,tandem_cgm_high,931756
+07/05/2024 17:56,tandem_controliq_high,931756
+07/05/2024 17:36,tandem_controliq_high,931756
+07/05/2024 17:01,tandem_controliq_high,931756
+07/05/2024 16:34,tandem_cgm_high,931756
+07/05/2024 16:04,tandem_cgm_high,931756
+07/05/2024 15:09,tandem_cgm_high,931756
+07/05/2024 14:16,Cartridge Loaded,931756
+07/05/2024 08:39,tandem_cgm_replace_sensor,931756
+07/05/2024 07:24,tandem_controliq_high,931756
+07/05/2024 07:14,tandem_cgm_high,931756
+07/05/2024 06:36,tandem_cgm_sensor_expiring,931756
+07/05/2024 02:36,tandem_cgm_sensor_expiring,931756
+06/05/2024 21:44,tandem_cgm_high,931756
+05/05/2024 22:49,tandem_cgm_high,931756
+05/05/2024 21:04,tandem_cgm_high,931756
+05/05/2024 18:19,tandem_controliq_high,931756
+05/05/2024 18:14,tandem_cgm_high,931756
+05/05/2024 14:54,tandem_cgm_high,931756
+05/05/2024 01:19,tandem_controliq_high,931756
+04/05/2024 23:14,tandem_controliq_high,931756
+04/05/2024 23:09,tandem_cgm_high,931756
+04/05/2024 21:52,Cartridge Loaded,931756
+04/05/2024 20:03,Low Power Alert (2T),931756
+04/05/2024 19:32,tandem_controliq_high,931756
+04/05/2024 16:57,tandem_controliq_high,931756
+04/05/2024 16:29,tandem_cgm_high,931756
+04/05/2024 15:14,tandem_cgm_high,931756
+04/05/2024 05:57,tandem_controliq_high,931756
+04/05/2024 05:54,tandem_cgm_high,931756
+04/05/2024 05:37,tandem_controliq_high,931756
+04/05/2024 05:34,tandem_cgm_high,931756
+04/05/2024 02:21,tandem_controliq_high,931756
+04/05/2024 01:09,tandem_cgm_high,931756
+03/05/2024 23:48,tandem_controliq_low,931756
+03/05/2024 17:11,tandem_controliq_high,931756
+03/05/2024 13:20,tandem_controliq_high,931756
+03/05/2024 12:54,tandem_cgm_high,931756
+03/05/2024 10:39,tandem_cgm_low_2,931756
+03/05/2024 10:23,tandem_controliq_low,931756
+03/05/2024 02:38,tandem_controliq_high,931756
+02/05/2024 23:18,tandem_controliq_high,931756
+02/05/2024 22:34,tandem_cgm_high,931756
+02/05/2024 20:03,tandem_controliq_low,931756
+02/05/2024 17:23,tandem_controliq_high,931756
+02/05/2024 16:28,tandem_controliq_high,931756
+02/05/2024 15:14,tandem_cgm_high,931756
+02/05/2024 13:32,Low Power Alert (2T),931756
+02/05/2024 09:02,tandem_controliq_high,931756
+02/05/2024 08:07,tandem_controliq_high,931756
+02/05/2024 08:03,tandem_cgm_high,931756
+02/05/2024 06:32,tandem_controliq_low,931756
+02/05/2024 05:57,tandem_controliq_low,931756
+02/05/2024 02:41,Cartridge Loaded,931756
+02/05/2024 02:35,tandem_controliq_high,931756
+02/05/2024 01:00,tandem_controliq_high,931756
+01/05/2024 22:54,tandem_controliq_high,931756
+01/05/2024 22:38,tandem_cgm_high,931756
+01/05/2024 21:43,tandem_cgm_high,931756
+01/05/2024 20:14,tandem_controliq_low,931756
+01/05/2024 16:49,tandem_controliq_low,931756
+01/05/2024 15:54,tandem_controliq_low,931756
+01/05/2024 13:43,tandem_cgm_high,931756
